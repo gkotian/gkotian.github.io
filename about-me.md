@@ -6,7 +6,8 @@ title: About Me
 Hi, I am Gautam Kotian.
 
 I am passionately interested in creating amazing software and travelling!
-I live in Berlin, Germany and work at Sociomantic Labs GmbH, constantly striving to improve your online browsing experience.
+I live in Berlin, Germany and work at [Sociomantic Labs GmbH](http://www.sociomantic.com), where we
+are constantly striving to improve your online browsing experience.
 
 Some other trivia about me (in no particular order):
     * I read a lot of articles on Wikipedia [on](http://en.wikipedia.org/wiki/Just-world_hypothesis) [a](http://en.wikipedia.org/wiki/Majid_Majidi) [very](http://en.wikipedia.org/wiki/Pitcairn_Islands) [wide](http://en.wikipedia.org/wiki/Seppuku) [range](http://en.wikipedia.org/wiki/Dream_telepathy) [of](http://en.wikipedia.org/wiki/Pomodoro_Technique) [topics](http://en.wikipedia.org/wiki/In-Memory_Processing).
