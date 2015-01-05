@@ -1,3 +1,12 @@
+---
+layout: about
+title: About Me
+imgSrc: /assets/tattoo.jpg
+imgTitle: Gautam Kotian
+imgWidth: 240
+imgHeight: 320
+---
+
 Hi, I am Gautam Kotian.
 
 I am passionately interested in creating amazing software and travelling!
