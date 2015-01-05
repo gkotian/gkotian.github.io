@@ -1,8 +1,3 @@
----
-layout: default
-title: About Me
----
-
 Hi, I am Gautam Kotian.
 
 I am passionately interested in creating amazing software and travelling!

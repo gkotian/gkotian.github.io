@@ -179,11 +179,11 @@ div.related {
   text-align: center;
 }
 
-.home_box {
+.about_content {
   float: left;
 }
 
-#content .home_box h2 {
+#content .about_content h2 {
   background: #417378;
   padding: 0.3em 0.5em;
   border-bottom: 3px solid #255;
@@ -191,16 +191,16 @@ div.related {
   color: white;
 }
 
-.home_box h2 a {
+.about_content h2 a {
   color: white;
   margin: 0 0.2em;
 }
 
-#home_left {
+#about_left {
   width: 29em;
 }
 
-#home_right {
+#about_right {
   width: 16em;
   margin-left: 1em;
 }
@@ -212,7 +212,7 @@ div.related {
   font-weight: normal;
 }
 
-.home_box .post h1 a {
+.about_content .post h1 a {
   font-size: 0.7em;
 }
 
