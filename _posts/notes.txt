@@ -1,0 +1,5 @@
+- move to _posts directory
+- rename to *.md
+- remove all unnecessary things
+- se ff-unix
+- add `<!--more-->`
