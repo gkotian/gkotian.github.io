@@ -11,6 +11,16 @@ img.right {
   margin: 15px;
 }
 
+.image-wrapper {
+    text-align: center;
+    border: 2px solid #CCCCCC;
+    padding: 4px;
+}
+
+.image-caption {
+    font-style: italic;
+}
+
 a {
   color: #3E423A;
   font-weight: bold;
