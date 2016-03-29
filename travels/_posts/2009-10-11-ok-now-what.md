@@ -20,5 +20,9 @@ The amount of planning and research that goes into such a project is phenomenal.
 - Start looking for volunteering work/part-time jobs
 - Start looking for Spanish language classes (both here and in South America)
 - Start looking for conveyance options
+<br><br>
 
-<p><img class="aligncenter size-full wp-image-22" title="Route01" src="{{ site.baseurl }}/assets/route011.png" alt="Route01" width="499" height="245" /></p>
+{% include image.html
+    img="assets/2009-10-11-route.png"
+    title="Route"
+    caption="My initial plan was to start in Thailand, cover SE Asia, fly to Mexico, cover Central America, the Caribbean Islands, then several countries in South America and finally end up in Brazil. Looking back upon it now, what a pipe-dream that was! But one has got to dream big, right?" %}
