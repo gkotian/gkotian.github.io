@@ -8,6 +8,10 @@ TARGET_FILE=${PLAY_DIR}/website/travels/_posts/${FILENAME_WITHOUT_EXTN}.md
 
 git mv ${PLAY_DIR}/website/_posts/${POST_TO_ADAPT} $TARGET_FILE
 
-chmod -x $TARGET_FILE
-
-git add $TARGET_FILE
+echo "To do next:"
+echo "    - remove useless stuff in frontmatter (but keep categories)"
+echo "    - remove useless stuff at the end"
+echo "    - add blank line after frontmatter"
+echo "    - remove '<p>' & '</p>' tags"
+echo "    - remove other HTML"
+echo "    - break up long lines"
