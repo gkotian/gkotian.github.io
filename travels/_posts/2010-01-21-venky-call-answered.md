@@ -21,11 +21,6 @@ evening of the 19th.
     caption="Prit & I chilling on the last seat of the bus" %}
 <br>
 
-{% include image.html
-    img="assets/2010-01-21-road-to-temple.jpg"
-    title="Prit and I"
-    caption="The beautifully made road to the temple on the hill" %}
-
 The tour bus and the overall service was less than satisfactory, but the darshan
 (auspicious sighting of the deity) itself was Something Else. Those who know me
 know that there isn't a single religious bone in me, but that was by far the
