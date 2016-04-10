@@ -43,3 +43,9 @@ of both that made the whole experience so special I can never tell. I don't know
 if I'll go to the temple and stand in line again, and if I do, I don't know if
 I'll have the same electrifying experience again, but I'm glad I did at least
 that one time.
+
+{% include image.html
+    img="assets/travels/2010-01-21-black-stone-idol.jpg"
+    title="Idol"
+    caption="Close-up of the black stone idol"
+    url="http://www.hindugodwallpaper.com/wallpaper-78-1647.html" %}
