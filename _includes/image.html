@@ -8,7 +8,10 @@
     {% endif %}
     <p class="image-caption">{{ include.caption }}
     {% if include.courtesy %}
-        &nbsp;<img src="/assets/misc/image_courtesy.png" width="15" height="15"/>
+        &nbsp;
+        <a href="{{ include.courtesy }}" title="image courtesy" target="_blank">
+            <img src="/assets/misc/image_courtesy.png" width="85" height="20" alt="image courtesy"/>
+        </a>
     {% endif %}
     </p>
 </div>

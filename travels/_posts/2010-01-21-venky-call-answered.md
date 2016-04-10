@@ -48,5 +48,4 @@ that one time.
     img="assets/travels/2010-01-21-black-stone-idol.jpg"
     title="Idol"
     caption="Close-up of the black stone idol"
-    url="http://www.hindugodwallpaper.com/wallpaper-78-1647.html"
-    courtesy="http://www.hindugodwallpaper.com" %}
+    courtesy="http://www.hindugodwallpaper.com/wallpaper-78-1647.html" %}
