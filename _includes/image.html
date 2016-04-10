@@ -6,12 +6,9 @@
     {% if include.url %}
     </a>
     {% endif %}
-    {% if include.caption %}
-        <p class="image-caption">{{ include.caption }}
-    {% endif %}
+    <p class="image-caption">{{ include.caption }}
     {% if include.courtesy %}
-        &nbsp;<img src="/assets/misc/image_courtesy.png" width="15" height="15"/></p>
-    {% else %}
-        </p>
+        &nbsp;<img src="/assets/misc/image_courtesy.png" width="15" height="15"/>
     {% endif %}
+    </p>
 </div>
