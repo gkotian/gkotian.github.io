@@ -16,7 +16,7 @@ Bangalore on the evening of 18th January and bring us back to Bangalore on the
 evening of the 19th.
 
 {% include image.html
-    img="assets/2010-01-21-prit-and-i.jpg"
+    img="assets/travels/2010-01-21-prit-and-i.jpg"
     title="Prit and I"
     caption="Prit & I chilling on the last seat of the bus" %}
 <br>

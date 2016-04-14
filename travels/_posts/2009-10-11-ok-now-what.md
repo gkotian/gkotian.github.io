@@ -30,7 +30,7 @@ to work on are:
 <br><br>
 
 {% include image.html
-    img="assets/2009-10-11-route.png"
+    img="assets/travels/2009-10-11-route.png"
     title="Route"
     caption="My initial plan was to start in Thailand, cover SE Asia, fly to
         Mexico, cover Central America, the Caribbean Islands, then several
