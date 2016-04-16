@@ -7,9 +7,10 @@ excerpt: Could I really dare to dream?
 ---
 
 I thoroughly enjoyed my 2 week vacation in North India. During the first week I
-was at Dehradun at my friend's wedding along with my other friends, and in the
-second week I went on a solo motorcycle ride through a portion of the Himalayas
-before riding the motorcycle back to New Delhi.
+was at Dehradun at OJ's wedding along with Kini, VMK & Paddie; and in the second
+week I went on a solo motorcycle ride on OJ's Royal Enfield Bullet through a
+portion of the Himalayas in Uttarakhand before riding the motorcycle back to New
+Delhi.
 
 It was during this trip that I decided to take a break to travel a bit in the
 first half of 2010. Back in Bangalore, during one of our usual chats over chai,
