@@ -19,7 +19,6 @@ evening of the 19th.
     img="assets/travels/2010-01-21-prit-and-i.jpg"
     title="Prit and I"
     caption="Prit & I chilling on the last seat of the bus" %}
-<br>
 
 The tour bus and the overall service was less than satisfactory, but the darshan
 (auspicious sighting of the deity) itself was Something Else. Those who know me

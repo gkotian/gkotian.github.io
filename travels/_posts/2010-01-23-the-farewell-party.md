@@ -23,13 +23,11 @@ a large way to my super chilled-out flatmates.
     img="assets/travels/2010-01-23-the-africans.jpg"
     title="Africans"
     caption="The Africans - Hamid & Norris" %}
-<br>
 
 {% include image.html
     img="assets/travels/2010-01-23-kitchen-crowd.jpg"
     title="Kitchen"
     caption="For some reason, most of the crowd ends up either in the kitchen or in the kitchen balcony" %}
-<br>
 
 {% include image.html
     img="assets/travels/2010-01-23-favourite-people.jpg"
