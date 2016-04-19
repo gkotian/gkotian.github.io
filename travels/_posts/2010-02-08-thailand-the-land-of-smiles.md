@@ -12,23 +12,23 @@ airport to meet us. From there, all of us got into a cab to go to the
 international airport. On the way, VMK suddenly remembered that we needed
 to stock up on Indian cigarettes and OJ suddenly remembered that we needed to
 stock up on [Rajnigandha](http://rajnigandha.com). Did you note how I said "we"
-needed to stock up? That is because that is exactly how the need was described,
-even though awareness of the need was restricted to the source of the need. So
-off we went in search of a paan shop in the middle of the night. Thank heavens
-we found one on the way. If we hadn't, I'm almost certain that we would have
-roamed the entire city in search of a shop to buy these indispensable items
-from, even at the cost of missing our flight.
+needed to stock up? I said so because that is exactly how the need was
+described, even though the need was in reality restricted to where its awareness
+had sprung from. So off we went in search of a paan shop in the middle of the
+night. Thank heavens we found one on the way for if we hadn't, I'm almost
+certain that we would have roamed the entire city in search of a shop to buy
+these indispensable items from, even at the cost of missing our flight.
 
 The flight took off at 5.30 am Indian time, and landed at Suvarnabhumi
 International airport in Bangkok at 10.30 am local time. The visa on arrival
 system was fairly simple and to encourage tourism, Thailand had waived off the
 visa fees till March this year. The only thing you needed to show to be granted
-a visa were your return trip tickets. VMK, Kini & OJ had booked return flights
-so they had everything they needed, but I hadn’t bought any ticket out of
-Thailand as I was planning on crossing over into Cambodia by road. I was hoping
-that the visa officer would consider my case and grant me a visa as well, but
-that was not to be. He insisted on a flight ticket out of Thailand, so I was
-left with no choice but to buy one at the airport itself.
+a visa was a ticket out of Thailand. VMK, Kini & OJ had booked return flights so
+they had everything they needed, but I didn’t. I was planning on crossing over
+into Cambodia by road, so I had no ticket to show. I was hoping that the visa
+officer would accept my explanation and grant me a visa as well, but that was
+not to be. He insisted on a flight ticket out of Thailand, so I was left with no
+choice but to buy one at the airport itself.
 
 Animesh, a friend from Bangalore and [an experienced traveller
 himself](https://desibackpacker.wordpress.com) had advised me that in situations
@@ -42,8 +42,8 @@ So OJ & I went looking for a ticketing counter, while Kini and VMK waited with
 our bags. The only ticketing counter available was that of Thai airways, and
 there were no cancellable tickets available. Booking a ticket and later
 canceling it would cost me at least 2000 THB, and I didn't want to spend so much
-for no reason. So we found an internet cafe at the airport itself, and
-"manufacured" a return ticket.
+for no reason. So we found an internet centre at the airport itself, and
+"manufactured" a return ticket.
 
 The visa officer was satisfied with my "ticket" and gave me the visa. All of us
 were now authorised to travel around the land of smiles for the next 15 days.
