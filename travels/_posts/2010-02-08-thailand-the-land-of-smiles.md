@@ -19,6 +19,16 @@ night. Thank heavens we found one on the way for if we hadn't, I'm almost
 certain that we would have roamed the entire city in search of a shop to buy
 these indispensable items from, even at the cost of missing our flight.
 
+{% include image.html
+    img="assets/travels/2010-02-08-reunion-in-mumbai.jpg"
+    title="Reunion In Mumbai"
+    caption="BDG reunites in Mumbai" %}
+
+{% include image.html
+    img="assets/travels/2010-02-08-completing-exit-formalities.jpg"
+    title="Exit Formalities"
+    caption="Completing formalities required before departing India" %}
+
 The flight took off at 5.30 am Indian time, and landed at Suvarnabhumi
 International airport in Bangkok at 10.30 am local time. The visa on arrival
 system was fairly simple and to encourage tourism, Thailand had waived off the
@@ -47,3 +57,19 @@ for no reason. So we found an internet centre at the airport itself, and
 
 The visa officer was satisfied with my "ticket" and gave me the visa. All of us
 were now authorised to travel around the land of smiles for the next 15 days.
+
+{% include image.html
+    img="assets/travels/2010-02-08-suvarnabhumi-international-airport.jpg"
+    title="Suvarnabhumi International Airport"
+    caption="At the Suvarnabhumi International Airport in Bangkok" %}
+
+{% include image.html
+    img="assets/travels/2010-02-08-first-step-into-thailand.jpg"
+    title="First Step"
+    caption="Taking the first step into Thailand" %}
+
+{% include image.html
+    img="assets/travels/2010-02-08-clean-bus-station.jpg"
+    title="Clean Bus Station"
+    caption="It's going to be a while before bus stations in India reach this
+        level of cleanliness" %}
