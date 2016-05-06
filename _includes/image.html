@@ -1,18 +1,24 @@
-<div class="image-wrapper" >
-    {% if include.url %}
-    <a href="{{ include.url }}" title="{{ include.title }}" target="_blank">
-    {% endif %}
-        <img src="{{ site.url }}/{{ include.img }}" alt="{{ include.title }}" width="100%" height="100%"/>
-    {% if include.url %}
-    </a>
-    {% endif %}
-    <p class="image-caption">{{ include.caption }}
-    {% if include.courtesy %}
-        &nbsp;
-        <a href="{{ include.courtesy }}" title="image courtesy" target="_blank">
-            <img src="/assets/misc/image_courtesy.png" width="85" height="20" alt="image courtesy"/>
+<div>
+{% if include.portrait_image %}
+    <div class="image-wrapper-portrait" >
+{% else %}
+    <div class="image-wrapper-landscape" >
+{% endif %}
+        {% if include.url %}
+        <a href="{{ include.url }}" title="{{ include.title }}" target="_blank">
+        {% endif %}
+            <img src="{{ site.url }}/{{ include.img }}" alt="{{ include.title }}" width="100%" height="100%"/>
+        {% if include.url %}
         </a>
-    {% endif %}
-    </p>
+        {% endif %}
+        <p class="image-caption">{{ include.caption }}
+        {% if include.courtesy %}
+            &nbsp;
+            <a href="{{ include.courtesy }}" title="image courtesy" target="_blank">
+                <img src="/assets/misc/image_courtesy.png" width="85" height="20" alt="image courtesy"/>
+            </a>
+        {% endif %}
+        </p>
+    </div>
 </div>
 <br>

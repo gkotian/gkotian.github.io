@@ -11,7 +11,15 @@ img.right {
   margin: 15px;
 }
 
-.image-wrapper {
+.image-wrapper-landscape {
+    text-align: center;
+    border: 2px solid #CCCCCC;
+    padding: 4px;
+}
+
+.image-wrapper-portrait {
+    width: 480px;
+    margin: auto;
     text-align: center;
     border: 2px solid #CCCCCC;
     padding: 4px;
