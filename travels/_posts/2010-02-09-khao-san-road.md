@@ -30,31 +30,31 @@ We had agreed early on one rule : whatever happens in Bangkok stays in Bangkok.
 Details have been deliberately skipped in keeping with this rule.
 
 {% include image.html
-    img="assets/travels/2010-02-10-partying-1.jpg"
+    img="assets/travels/2010-02-09-partying-1.jpg"
     title="Party1"
     caption="From one pub" %}
 
 {% include image.html
-    img="assets/travels/2010-02-10-partying-2.jpg"
+    img="assets/travels/2010-02-09-partying-2.jpg"
     title="Party2"
     caption="to another" %}
 
 {% include image.html
-    img="assets/travels/2010-02-10-partying-3.jpg"
+    img="assets/travels/2010-02-09-partying-3.jpg"
     title="Party3"
     caption="to another" %}
 
 {% include image.html
-    img="assets/travels/2010-02-10-suck-up-boys.jpg"
+    img="assets/travels/2010-02-09-suck-up-boys.jpg"
     title="Suck Up Boys"
     caption="Suck Up Boys" %}
 
 {% include image.html
-    img="assets/travels/2010-02-10-live-music.jpg"
+    img="assets/travels/2010-02-09-live-music.jpg"
     title="Live Music"
     caption="We also went to a live music place when we got tired of pubs" %}
 
 {% include image.html
-    img="assets/travels/2010-02-10-khao-san-live-music.jpg"
+    img="assets/travels/2010-02-09-khao-san-live-music.jpg"
     title="Khao San Live Music"
     caption="At some point we found ourselves singing along with some random musicians" %}
