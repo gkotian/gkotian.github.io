@@ -16,3 +16,7 @@ echo "    - remove '<p>' & '</p>' tags"
 echo "    - remove other HTML"
 echo "    - break up long lines"
 echo "    - add an excerpt"
+
+cd ~/play/website
+
+git status
