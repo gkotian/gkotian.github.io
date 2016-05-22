@@ -29,6 +29,16 @@ img.right {
     font-style: italic;
 }
 
+.video-wrapper {
+    text-align: center;
+    border: 2px solid #CCCCCC;
+    padding: 4px;
+}
+
+.video-caption {
+    font-style: italic;
+}
+
 a {
   color: #3E423A;
   font-weight: bold;
