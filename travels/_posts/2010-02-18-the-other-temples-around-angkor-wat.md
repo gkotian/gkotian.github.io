@@ -23,17 +23,17 @@ another deal with a young tuk-tuk driver this time. He seemed to be a friendly
 chap and we were all looking forward to a fun and relaxed sightseeing day.
 
 {% include image.html
-    img="assets/travels/2012-02-18-tuk-tuk.jpg"
+    img="assets/travels/2010-02-18-tuk-tuk.jpg"
     title="Our tuk-tuk"
     caption="Paul, Talita, Juli & I with our initially friendly tuk-tuk driver" %}
 
 {% include image.html
-    img="assets/travels/2012-02-18-flute-girl.jpg"
+    img="assets/travels/2010-02-18-flute-girl.jpg"
     title="Flute girl"
     caption="With a young Cambodian girl selling flutes" %}
 
 {% include image.html
-    img="assets/travels/2012-02-18-large-coconut.jpg"
+    img="assets/travels/2010-02-18-large-coconut.jpg"
     title="Large coconut"
     caption="Tender coconuts here are HUGE and really heavy, so they're usually
         sliced at the bottom to allow them to stand freely" %}
@@ -65,16 +65,16 @@ when we were finally out of it and safely back in the guesthouse. Needless to
 say, the tuk-tuk driver didn't get any tip.
 
 {% include image.html
-    img="assets/travels/2012-02-18-green-countryside.jpg"
+    img="assets/travels/2010-02-18-green-countryside.jpg"
     title="Green countryside"
     caption="Green countryside" %}
 
 {% include image.html
-    img="assets/travels/2012-02-18-smooth-road.jpg"
+    img="assets/travels/2010-02-18-smooth-road.jpg"
     title="Smooth road"
     caption="Roads in Siem Reap are generally very good" %}
 
 {% include image.html
-    img="assets/travels/2012-02-18-sunset.jpg"
+    img="assets/travels/2010-02-18-sunset.jpg"
     title="Sunset"
     caption="Sunset from the rooftop bar in the guesthouse" %}
