@@ -15,7 +15,7 @@ Wat. On the way, I saw a volleyball game in progress so I stopped to watch for a
 while.
 
 {% include image.html
-    img="assets/travels/2010-02-20-volleyball-game.jpg"
+    img="assets/travels/2010-02-22-volleyball-game.jpg"
     title="Volleyball game"
     caption="Volleyball game" %}
 
@@ -25,7 +25,7 @@ this temple was being restored and preserved in joint collaboration of the
 governments of India & Cambodia.
 
 {% include image.html
-    img="assets/travels/2010-02-20-indiyeah.jpg"
+    img="assets/travels/2010-02-22-indiyeah.jpg"
     title="Indiyeah"
     caption="Indiyeah!!" %}
 
@@ -33,13 +33,13 @@ The most impressive part about the Ta Phrom temple are the huge trees growing
 inside. These are the same trees featured in the Tomb Raider movie.
 
 {% include image.html
-    img="assets/travels/2010-02-20-huge-trees-1.jpg"
+    img="assets/travels/2010-02-22-huge-trees-1.jpg"
     portrait_image="true"
     title="Huge trees 1"
     caption="Huge trees 1" %}
 
 {% include image.html
-    img="assets/travels/2010-02-20-huge-trees-2.jpg"
+    img="assets/travels/2010-02-22-huge-trees-2.jpg"
     portrait_image="true"
     title="Huge trees 2"
     caption="Huge trees 2" %}
@@ -51,12 +51,12 @@ reclining Buddha and looked all around peacefully without a single other person
 in sight - the first time this has happened in tourist infested Siem Reap.
 
 {% include image.html
-    img="assets/travels/2010-02-20-baksei-cham-krong.jpg"
+    img="assets/travels/2010-02-22-baksei-cham-krong.jpg"
     title="Baksei Cham Krong"
     caption="The deserted Baksei Cham Krong temple" %}
 
 {% include image.html
-    img="assets/travels/2010-02-20-reclining-buddha.jpg"
+    img="assets/travels/2010-02-22-reclining-buddha.jpg"
     title="Reclining Buddha"
     caption="Reclining Buddha at Baksei Cham Krong" %}
 
@@ -75,7 +75,7 @@ cause, please take a look at <a href="http://www.beatocello.com"
 target="_blank">http://www.beatocello.com</a>.
 
 {% include image.html
-    img="assets/travels/2010-02-20-beat-richner-cello.jpg"
+    img="assets/travels/2010-02-22-beat-richner-cello.jpg"
     title="Beat Richner"
     caption="Dr. Beat Richner with his cello" %}
 
