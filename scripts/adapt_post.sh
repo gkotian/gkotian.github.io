@@ -1,6 +1,6 @@
 #!/bin/bash
 
-POST_TO_ADAPT=$1
+POST_TO_ADAPT=`basename $1`
 
 FILENAME_WITHOUT_EXTN="${POST_TO_ADAPT%.*}"
 
