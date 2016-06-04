@@ -20,7 +20,9 @@ echo "    - remove useless stuff at the end"
 echo "    - add blank line after frontmatter"
 echo "    - remove '<p>' & '</p>' tags"
 echo "    - remove other HTML"
-echo "    - break up long lines"
 echo "    - add an excerpt"
+echo "    - run the image downloader script"
+echo "    - rename downloaded image files if necessary"
+echo ""
 
 git status

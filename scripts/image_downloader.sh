@@ -1,19 +1,26 @@
 #!/bin/bash
 
-DATE=2010-02-20
+POST_PATH=$1
+POST_NAME=`basename $1`
 
-IMAGES_TO_DOWNLOAD=(
-floating-church https://googs123.files.wordpress.com/2010/02/sam_0399.jpg
-crocodile-farm https://googs123.files.wordpress.com/2010/02/sam_0407.jpg
-tonle-sap-lake https://googs123.files.wordpress.com/2010/02/sam_0401.jpg
-begging-boats https://googs123.files.wordpress.com/2010/02/sam_0393.jpg
-bucket-boy https://googs123.files.wordpress.com/2010/02/sam_0395.jpg
-lotus-field https://googs123.files.wordpress.com/2010/02/sam_0416.jpg
-kids-at-lotus-field https://googs123.files.wordpress.com/2010/02/sam_0423.jpg
-)
+DATE=$(echo ${POST_NAME} | cut -d"-" -f1,2,3)
 
-for ((i = 0; i < ${#IMAGES_TO_DOWNLOAD[@]}; i+=2))
+ARR=(`grep "href=" ${POST_PATH} | sed 's|^.*caption="\(.*\)".*href="\(.*\)">.*$|\1ö\2|g' | sed 's|\s|-|g' | sed 's|öhttp| https|g'`)
+
+# 'ARR' will contain pairs of 'short-name image-url'
+# An example pair is:
+#     The-Independence-monument https://googs123.files.wordpress.com/2010/03/sam_0533.jpg
+
+for ((i = 0; i < ${#ARR[@]}; i+=2))
 do
-    TARGET_FILE=${PLAY_DIR}/website/assets/travels/${DATE}-${IMAGES_TO_DOWNLOAD[$i]}.jpg
-    curl -o ${TARGET_FILE} ${IMAGES_TO_DOWNLOAD[$i+1]}
+    SHORT_NAME=$(echo ${ARR[$i]} | awk '{print tolower($0)}')
+    IMAGE_URL=${ARR[$i+1]}
+
+    EXTENSION=${IMAGE_URL##*.}
+    TARGET_FILE_NAME=${DATE}-${SHORT_NAME}
+    TARGET_FILE_PATH=${PLAY_DIR}/website/assets/travels/${TARGET_FILE_NAME}.${EXTENSION}
+
+    curl -o ${TARGET_FILE_PATH} ${ARR[$i+1]} 2> /dev/null
+
+    echo "${TARGET_FILE_NAME}.${EXTENSION}"
 done
