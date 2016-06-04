@@ -8,6 +8,12 @@ TARGET_FILE=${PLAY_DIR}/website/travels/_posts/${FILENAME_WITHOUT_EXTN}.md
 
 git mv ${PLAY_DIR}/website/_posts/${POST_TO_ADAPT} $TARGET_FILE
 
+# Substitute the ’ character with a single apostrophe
+sed -i 's/’/'\''/g' ${TARGET_FILE}
+
+# Delete `<p style="text-align:center;">` lines
+sed -i '/^<p style="text-align:center;">$/d' ${TARGET_FILE}
+
 echo "To do next:"
 echo "    - remove useless stuff in frontmatter (but keep categories)"
 echo "    - remove useless stuff at the end"
