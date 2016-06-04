@@ -62,7 +62,6 @@ waitForConfirmation
 i=0
 while IFS='' read -r SHORT_NAME || [[ -n "$SHORT_NAME" ]]
 do
-    echo "Putting ${SHORT_NAME} into index ${i}"
     ARR[$i]=$SHORT_NAME
     ((i+=2))
 done < "${TMP_FILE}"
