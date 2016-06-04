@@ -22,6 +22,10 @@ git mv ${PLAY_DIR}/website/_posts/${POST_TO_ADAPT} ${TARGET_FILE}
 # Substitute the ’ character with a single apostrophe
 sed -i 's/’/'\''/g' ${TARGET_FILE}
 
+# Substitute the “ or ” characters with a double apostrophe
+sed -i 's/“/"/g' ${TARGET_FILE}
+sed -i 's/”/"/g' ${TARGET_FILE}
+
 # Delete `<p style="text-align:center;">` lines
 sed -i '/^<p style="text-align:center;">$/d' ${TARGET_FILE}
 
