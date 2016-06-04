@@ -32,27 +32,54 @@ echo "    - add blank line after frontmatter"
 echo "    - remove '<p>' & '</p>' tags"
 echo "    - remove other HTML"
 echo "    - add an excerpt"
-
-echo ""
 waitForConfirmation
 
 DATE=$(echo ${FILENAME_WITHOUT_EXTN} | cut -d"-" -f1,2,3)
 
 ARR=(`grep "href=" ${TARGET_FILE} | sed 's|^.*caption="\(.*\)".*href="\(.*\)">.*$|\1ö\2|g' | sed 's|\s|-|g' | sed 's|öhttp| https|g'`)
 
-# 'ARR' will contain pairs of 'short-name image-url'
+# 'ARR' will now contain pairs of 'short-name image-url'
 # An example pair is:
 #     The-Independence-monument https://googs123.files.wordpress.com/2010/03/sam_0533.jpg
 
-echo "Paste this into the IMAGES_TO_DOWNLOAD array in the image downloader script, and edit the short names as necessary:"
+TMP_FILE=$(mktemp)
+
 for ((i = 0; i < ${#ARR[@]}; i+=2))
 do
     SHORT_NAME=$(echo ${ARR[$i]} | awk '{print tolower($0)}')
+    echo "${SHORT_NAME}" >> ${TMP_FILE}
+done
+
+echo "Short names written to '${TMP_FILE}'. Edit as necessary, but don't change the order."
+waitForConfirmation
+
+# Read the new short names, and replace the existing short names in 'ARR'
+# (short names are present in even indices)
+i=0
+while IFS='' read -r SHORT_NAME || [[ -n "$SHORT_NAME" ]]
+do
+    echo "Putting ${SHORT_NAME} into index ${i}"
+    ARR[$i]=$SHORT_NAME
+    ((i+=2))
+done < "${TMP_FILE}"
+
+echo "Downloading images:"
+for ((i = 0; i < ${#ARR[@]}; i+=2))
+do
+    SHORT_NAME=${ARR[$i]}
     IMAGE_URL=${ARR[$i+1]}
-    echo "${SHORT_NAME} ${IMAGE_URL}"
+
+    EXTENSION=${IMAGE_URL##*.}
+    IMAGE_FILE_NAME=${DATE}-${SHORT_NAME}
+    IMAGE_FILE_PATH=${PLAY_DIR}/website/assets/travels/${IMAGE_FILE_NAME}.${EXTENSION}
+
+    curl -o ${IMAGE_FILE_PATH} ${IMAGE_URL} 2> /dev/null
+
+    echo "${IMAGE_FILE_NAME}.${EXTENSION}"
 done
 
 echo ""
-waitForConfirmation
+echo "Post adapted and images downloaded."
+echo "Post to edit: ${TARGET_FILE}"
 
-/home/ubuntu/play/website/scripts/image_downloader.sh ${DATE}
+rm -f ${TMP_FILE}
