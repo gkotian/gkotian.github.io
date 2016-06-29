@@ -12,7 +12,7 @@ really done much to further my travelling cause.
 
 The only thing that had been decided was my first flight out of India. I would
 be flying from Mumbai to Bangkok on the 6th of February with three of my friends
-from the Breakdown Gang – Kini, VMK & OJ. If I had to be in Mumbai on the 6th,
+from the Breakdown Gang - Kini, VMK & OJ. If I had to be in Mumbai on the 6th,
 then I would probably need to leave Bangalore on the 3rd or 4th. But then I also
 wanted to go to Varanasi to meet Jana, and had to go to New Delhi to try and
 arrange for a few visas at some of the embassies there.

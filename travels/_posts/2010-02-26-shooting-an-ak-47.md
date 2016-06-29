@@ -3,21 +3,21 @@ layout: post
 title: Shooting an AK-47
 categories:
 - Cambodia
-excerpt: It was a cold, snowy night in Chicago (sometime in February 2008) when I went to watch an NBA game with my colleagues - Gowdish & Ramesh. After the game, I remember saying to them, "There are two kinds of people in the world – those who have watched an NBA game, and those who haven't".
+excerpt: It was a cold, snowy night in Chicago (sometime in February 2008) when I went to watch an NBA game with my colleagues - Gowdish & Ramesh. After the game, I remember saying to them, "There are two kinds of people in the world - those who have watched an NBA game, and those who haven't".
 ---
 
 It was a cold, snowy February night in Chicago when I went to watch a basketball
 game with my colleagues - Gowdish & Ramesh. After the game, I remember saying to
 them,<br>
-_"There are two kinds of people in the world – those who have watched an NBA
+_"There are two kinds of people in the world - those who have watched an NBA
 game, and those who haven't"_
 
 The next year, I did a tandem skydive, so I had to issue a new statement,<br>
-_"There are two kinds of people in the world – those who have jumped out of an
+_"There are two kinds of people in the world - those who have jumped out of an
 airplane, and those who haven't"_
 
 Today, I have to issue a third statement,<br>
-_"There are two kinds of people in the world – those who have fired an AK-47
+_"There are two kinds of people in the world - those who have fired an AK-47
 machine gun, and those who haven't"_
 
 I had arranged for a motorbike taxi to come and pick me up from my guesthouse
@@ -30,9 +30,9 @@ firing it.
 One could choose from a range of handguns, revolvers, sub-machine guns, machine
 guns, a grenade launcher and even a rocket launcher (bazooka). If I could have
 afforded the steep price tag of 350 USD for firing the rocket launcher, I might
-have done that. But I stuck to my second favourite item on the menu – the AK-47
-for 40 USD. I was also told me that for a price, any target – from a duck to a
-cow – could be arranged. Not being someone who would kill a living thing for
+have done that. But I stuck to my second favourite item on the menu - the AK-47
+for 40 USD. I was also told me that for a price, any target - from a duck to a
+cow - could be arranged. Not being someone who would kill a living thing for
 sport, I happily settled for a paper target.
 
 {% include image.html

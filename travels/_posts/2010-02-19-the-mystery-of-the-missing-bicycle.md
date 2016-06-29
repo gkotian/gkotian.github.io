@@ -63,7 +63,7 @@ ask for the full price of it.
 
 The driver of the motorbike taxi asked us to wait there and rode away. In a
 short while, he returned with two policemen who also looked around a little, and
-then told us what we already knew – that it was careless of us to have parked
+then told us what we already knew - that it was careless of us to have parked
 the bicycle by the side of the road without securing it to anything else. One of
 the policemen then spoke into his walkie-talkie, and then broke into a smile.
 Some other policemen had found a bicycle by the side of the road and had taken

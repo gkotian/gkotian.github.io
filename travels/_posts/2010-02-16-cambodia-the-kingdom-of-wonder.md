@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cambodia – the kingdom of wonder
+title: Cambodia - the kingdom of wonder
 categories:
 - Cambodia
 - Thailand

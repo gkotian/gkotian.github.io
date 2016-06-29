@@ -9,7 +9,7 @@ excerpt: The Angkor Archaeological Park contains many old temples, of which Angk
 The Angkor Archaeological Park contains many old temples, of which Angkor Wat is
 the most famous. Echo, Juli & I wanted to dedicate one full day to only check
 out the other temples in the region. Soon after breakfast, we met two other
-travelers – Talita (from South Africa) and Paul (from the USA) who had similar
+travelers - Talita (from South Africa) and Paul (from the USA) who had similar
 plans, so we all decided to get together and share a tuk-tuk to take us around.
 We negotiated a deal with an old tuk-tuk driver and got on our way. But we
 hadn't even passed five houses down the street when Echo got into an argument

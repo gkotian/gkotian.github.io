@@ -50,7 +50,7 @@ snaps from outside.
 
 Next stop was Fatehpur, after which the plan was to ride for about 20 km towards
 Bikaner for the ultimate desert road experience. But I'd made good time, so I
-rode all the way till Ratangarh – which was supposedly called the Varanasi of
+rode all the way till Ratangarh - which was supposedly called the Varanasi of
 Rajasthan. I spent about half and hour strolling around on the lawns of the
 peaceful, surprisingly clean and well maintained Hanuman temple at Ratangarh. I
 was also surprised to discover that in these parts Hanuman is called Balaji.

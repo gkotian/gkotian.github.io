@@ -63,5 +63,5 @@ extremely loud music. We were out of there in no more than half an hour.
 {% include image.html
     img="assets/travels/2010-02-28-crazy-buffalo.jpg"
     title="crazy-buffalo"
-    caption="The crazy buffalo near our room – an ugly building, but a superb
+    caption="The crazy buffalo near our room - an ugly building, but a superb
         landmark if you're lost or want a rendezvous point" %}

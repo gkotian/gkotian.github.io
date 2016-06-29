@@ -48,6 +48,6 @@ He probably saw how awestruck I was with everything, and discreetly offered to
 let me click a few pictures after everyone had left. So I hung back while he
 made all the other tourists leave. He then came back and took me to some
 cordoned off places where a lot of restoration work was in progress. From here,
-I got some great views of the landscape around – views that will probably not be
+I got some great views of the landscape around - views that will probably not be
 available to the general public for quite some time to come. On the way out, I
 handed 2 USD to the guard, and he was visibly pleased.

@@ -26,6 +26,9 @@ sed -i 's/’/'\''/g' ${TARGET_FILE}
 sed -i 's/“/"/g' ${TARGET_FILE}
 sed -i 's/”/"/g' ${TARGET_FILE}
 
+# Substitute the – character with a simple hyphen
+sed -i 's/–/-/g' ${TARGET_FILE}
+
 # Delete `<p style="text-align:center;">` lines
 sed -i '/^<p style="text-align:center;">$/d' ${TARGET_FILE}
 

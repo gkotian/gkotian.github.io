@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thailand – the land of smiles
+title: Thailand - the land of smiles
 categories:
 - India
 - Thailand
