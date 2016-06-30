@@ -71,8 +71,8 @@ In the evening, I went to Kantha Bopha hospital for a cello concert cum
 fund-raising event by Dr. Beat Richner. Dr. Richner had set up the hospital to
 provide free treatment for dying children in Cambodia, and spoke about the work
 he has been doing there for more than 15 years. If you wish to support his
-cause, please take a look at <a href="http://www.beatocello.com"
-target="_blank">http://www.beatocello.com</a>.
+cause, please take a look at [his
+website](http://www.beatocello.com){:target="_blank"}.
 
 {% include image.html
     img="assets/travels/2010-02-22-beat-richner-cello.jpg"
