@@ -25,7 +25,7 @@ officers being cautious when a foreigner is entering their country, but I
 couldn't imagine why they made such a big deal about someone leaving.
 
 {% include image.html
-    img="assets/travels/2010-03-08-last-snap-taken-in-vietnam"
+    img="assets/travels/2010-03-08-last-snap-taken-in-vietnam.jpg"
     title="last-snap-taken-in-vie"
     caption="Last snap taken in Vietnam" %}
 
@@ -44,12 +44,12 @@ thought it below their dignity to sit :) A European backpacking couple had no
 such qualms, and they also sat down on the floor soon afterwards.
 
 {% include image.html
-    img="assets/travels/2010-03-08-multi-leveled-airport"
+    img="assets/travels/2010-03-08-multi-leveled-airport.jpg"
     title="multi-leveled-air"
     caption="The multi-leveled Suvarnabhumi International airport" %}
 
 {% include image.html
-    img="assets/travels/2010-03-08-another-view"
+    img="assets/travels/2010-03-08-another-view.jpg"
     title="another-"
     caption="Another view on the inside" %}
 
