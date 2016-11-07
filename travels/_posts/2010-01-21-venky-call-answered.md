@@ -43,3 +43,15 @@ that one time.
     title="Idol"
     caption="Close-up of the black stone idol"
     courtesy="http://www.hindugodwallpaper.com/wallpaper-78-1647.html" %}
+
+{% include image.html
+    img="assets/travels/2010-01-21-aerial-view.jpg"
+    title="aerial view"
+    caption="Aerial view of the temple complex"
+    courtesy="http://blog.onlineprasad.com/wp-content/uploads/2015/06/tirumala.jpg" %}
+
+{% include image.html
+    img="assets/travels/2010-01-21-laddoos.jpg"
+    title="laddoos"
+    caption="The huge Tirupati laddoos with the copyrighted recipe"
+    courtesy="http://www.indiatimes.com/culture/food/11-prasads-that-you-can-get-in-temples-across-india-232115.html" %}
