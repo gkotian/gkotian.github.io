@@ -44,9 +44,13 @@ echo "    - remove other HTML"
 echo "    - add an excerpt"
 waitForConfirmation
 
-DATE=$(echo ${FILENAME_WITHOUT_EXTN} | cut -d"-" -f1,2,3)
-
 ARR=(`grep "href=" ${TARGET_FILE} | sed 's|^.*caption="\(.*\)".*href="\(.*\)">.*$|\1ö\2|g' | sed 's|\s|-|g' | sed 's|öhttp| https|g'`)
+
+if [ ${#ARR[@]} -eq 0 ]
+then
+    echo "This post has no images. We're done here."
+    exit 0
+fi
 
 # 'ARR' will now contain pairs of 'short-name image-url'
 # An example pair is:
@@ -71,6 +75,8 @@ do
     ARR[$i]=$SHORT_NAME
     ((i+=2))
 done < "${TMP_FILE}"
+
+DATE=$(echo ${FILENAME_WITHOUT_EXTN} | cut -d"-" -f1,2,3)
 
 echo "Downloading images:"
 for ((i = 0; i < ${#ARR[@]}; i+=2))
