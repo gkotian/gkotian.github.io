@@ -45,7 +45,7 @@ together.
 {% include video.html
     code="YCnW_qOGVHI"
     caption="Emmily & Dotahn's beautiful video of their last day at Katitawa
-    along with portions of our epic performance (starting at 5:10)" %}
+        along with portions of our epic performance (starting at 5:10)" %}
 
 [Here](http://emmtahn.wordpress.com/2010/06/02/project-sky-final-week){:target="_blank"}
 is Emmily & Dotahn's full write-up of their final week at Katitawa.
