@@ -28,6 +28,10 @@ Gham". To be honest, I did not even like the song, but it was _such_ a pleasant
 surprise to hear a Bollywood song being played on the other side of the world
 that I couldn't help but join in the dancing.
 
+{% include video.html
+    code="IBvg3WeqP1U"
+    caption="The original music video of Bole Chudiyan, Bole Kangana" %}
+
 Coming back to my bungee jump off the bridge in Baños, I ended up jumping
 backwards facing the sky and fell freely for maybe 2 to 3 seconds, after which I
 felt the cords of the harness tightening around me. I was actually seeing stars
