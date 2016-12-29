@@ -1,0 +1,12 @@
+"i   0i{% include image.html^M    img="assets/travels/^[A"^Mtitle="^[<80>ku0wwwwwwwwwwww<80>krv$<80>kl<80>kl<80>kl<80>kl<80>kl<80>kly
+"p   xxx$xxxxO^[<80>ku
+
+To add an image source credit:
+------------------------------
+    (added at the end)
+    courtesy="http://en.wikipedia.org/wiki/File:Otavalo_market.jpg" %}
+
+For a portrait image:
+---------------------
+    (added after the 'img=...' line)
+    portrait_image="true"
