@@ -127,13 +127,13 @@ a:visited {
 }
 
 span.date {
-  background: #484;
-  display: block;
-  padding: 0.4em 0.6em 0.3em;
   font-weight: bold;
-  color: white;
-  border-bottom: 3px solid #262;
+  color: black;
   float: left;
+  /* background: #484; */
+  /* display: block; */
+  /* padding: 0.4em 0.6em 0.3em; */
+  /* border-bottom: 3px solid #262; */
 }
 
 div.post {
