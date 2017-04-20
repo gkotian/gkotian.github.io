@@ -59,8 +59,8 @@ built with the intention of being located bang on the Equator.
 
 The intent may have been admirable, but the calculations were disgraceful. The
 monument ended up being constructed an embarrassing 240 metres off the real
-Latitude 0 0' 0". Despite that, the monument is still quite impressive and draws
-a lot of tourists who like to have their photos taken straddling the fake
+Latitude 0° 0' 0". Despite that, the monument is still quite impressive and
+draws a lot of tourists who like to have their photos taken straddling the fake
 equatorial line.
 
 {% include image.html
@@ -95,16 +95,24 @@ allegedly only be carried out on the Equator.
     title="guide"
     caption="Our guide telling us some interesting trivia about the Equator" %}
 
-The most interesting experiment was about the [Coriolis
+The most interesting experiment of all was the one about the [Coriolis
 Effect](https://en.wikipedia.org/wiki/Coriolis_force){:target="_blank"} carried
 out using a basin of water. It was amazing to see how the water drains straight
-downwards without any spiralling when the basin was kept on the Equator, drains
-in a clockwise or anti-clockwise manner when moved only a few metres to the
-south or north respectively.
+downwards without any spiralling when the basin was kept on the Equator, and
+drains in a clockwise or anti-clockwise manner when moved only a few metres to
+the south or north respectively.
 
 {% include video.html
     code="4IIVfoDuVIw"
     caption="Coriolis Effect demonstration" %}
+
+I have been told that this demonstration is fake, and the Coriolis Effect cannot
+be observed over such short distances. But it sure didn't seem like a fraud.
+Then again, maybe the person performing the experiment was an expert at fooling
+gullible tourists like me. In any case, I fail to see the motivation behind the
+alleged fraud, as we didn't have to give any money to see it being performed. So
+until proven otherwise, I'm going to continue believing that it really was not a
+scam.
 
 Just before leaving the museum, I was told that I could get my passport stamped
 with their seal. The guy there told me that they were among only a few
