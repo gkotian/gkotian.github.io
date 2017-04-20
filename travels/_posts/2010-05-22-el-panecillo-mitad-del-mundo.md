@@ -106,6 +106,18 @@ south or north respectively.
     code="4IIVfoDuVIw"
     caption="Coriolis Effect demonstration" %}
 
+Just before leaving the museum, I was told that I could get my passport stamped
+with their seal. The guy there told me that they were among only a few
+non-governmental organizations that have permission to stamp passports. I said
+ok and handed over my passport for it to be stamped. But I regretted it the
+moment the stamp was affixed. I just hope I don't get into trouble somewhere for
+having this odd stamp in my passport.
+
+{% include image.html
+    img="assets/travels/2010-05-22-passport-stamp.jpg"
+    title="passport-stamp"
+    caption="Latitude 00° 00' 00\" stamp" %}
+
 My initial plan had been to carry on to Otavalo from Mitad del Mundo. Looking at
 the map, it seemed like a reasonable plan as Mitad del Mundo seemed to be just a
 little lesser than half the way from Quito to Otavalo. But once at Mitad del
