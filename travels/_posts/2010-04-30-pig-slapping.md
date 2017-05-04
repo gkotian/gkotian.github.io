@@ -11,12 +11,11 @@ Personally I am against the actions that I will proceed to describe in this
 post, but yes, I have been guilty of indulging in and encouraging it :(**
 
 On the day I got back to Salasaca after my [one week travel break]({{
-site.baseurl }}{% post_url
-2010-04-29-travel-week %}), everyone decided to get some beer. They claimed it
-was to celebrate my return, but flattering as it was, I was inclined to believe
-that my return simply happened to coincide with their drinking plans. Once
-enough beers were downed, Nicolas, Colin, Matt & I decided to get out there and
-slap some sleeping pigs.
+site.baseurl }}{% post_url travels/2010-04-29-travel-week %}), everyone decided
+to get some beer. They claimed it was to celebrate my return, but flattering as
+it was, I was inclined to believe that my return simply happened to coincide
+with their drinking plans. Once enough beers were downed, Nicolas, Colin, Matt &
+I decided to get out there and slap some sleeping pigs.
 
 The first victim was obviously the poor pig who's always tied to a pole bang
 opposite our hostel door. Nicolas crept up to him very very quietly, and gave

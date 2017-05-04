@@ -55,7 +55,8 @@ Rajasthan. I spent about half and hour strolling around on the lawns of the
 peaceful, surprisingly clean and well maintained Hanuman temple at Ratangarh. I
 was also surprised to discover that in these parts Hanuman is called Balaji.
 Down south, Balaji refers to Venkateshwara, whose main temple is at
-[Tirupati]({{ site.baseurl }}{% post_url 2010-01-21-venky-call-answered %}).
+[Tirupati]({{ site.baseurl }}{% post_url travels/2010-01-21-venky-call-answered
+%}).
 
 {% include image.html
     img="assets/travels/2010-03-18-balaji-temple.jpg"

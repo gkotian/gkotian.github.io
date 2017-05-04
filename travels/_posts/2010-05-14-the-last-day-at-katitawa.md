@@ -93,8 +93,8 @@ glaring gaffe, one of the kids couldn't take it anymore and loudly shouted,
     title="pond-2"
     caption="Another view" %}
 
-[Here]({{ site.baseurl }}{% post_url 2010-04-14-pond-work-begins %}){:target="_blank"} is what the
-pond looked like just a few weeks ago.
+[Here]({{ site.baseurl }}{% post_url travels/2010-04-14-pond-work-begins
+%}){:target="_blank"} is what the pond looked like just a few weeks ago.
 
 {% include image.html
     img="assets/travels/2010-05-14-lachlans-farm.jpg"

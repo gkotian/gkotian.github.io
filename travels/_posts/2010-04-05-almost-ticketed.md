@@ -41,8 +41,8 @@ was the southern-most tip of the continental United States; and then back north
 to Miami. On Sunday morning, Divya drove me to the closest Avis car rental
 place, but they were closed as it was the Easter Sunday. It was of course, the
 Breakdown Gang in action, and I was reminded of my [failed attempts at leaving
-Delhi]({{ site.baseurl }}{% post_url 2010-03-16-the-best-laid-plans %}) and riding to the Wagah
-border.
+Delhi]({{ site.baseurl }}{% post_url travels/2010-03-16-the-best-laid-plans %})
+and riding to the Wagah border.
 
 So we came back home, and I took Divya's Honda CR-V for a drive to downtown
 Atlanta. Despite having a GPS device, I got lost as usual and took three hours

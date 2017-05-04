@@ -46,7 +46,8 @@ So coming back to my cousin Prit, he wanted to take one of these 24 hour package
 tours, and since he didn't have any company, he asked me if I'd like to join
 him. Remember that I have been without a job for about 20 days now, and a casual
 observer will say that I have all the time in the world to do this trip. But if
-you have read [my previous post]({{ site.baseurl }}{% post_url 2010-01-18-alvida-bangalore %}),
-you know that I have no time AT ALL for this trip. Then again, if you know me,
-you would know that I am not one to say no to any trip. So long story short, I
-conveniently set aside all my prior commitments and gave two thumbs up to Prit.
+you have read [my previous post]({{ site.baseurl }}{% post_url
+travels/2010-01-18-alvida-bangalore %}), you know that I have no time AT ALL for
+this trip. Then again, if you know me, you would know that I am not one to say
+no to any trip. So long story short, I conveniently set aside all my prior
+commitments and gave two thumbs up to Prit.

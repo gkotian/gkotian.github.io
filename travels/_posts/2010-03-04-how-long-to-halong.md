@@ -43,16 +43,16 @@ also quite breathtaking. The junk docked at a small port, where we got into
 kayaks in pairs. Ali lost his footing while getting into his kayak and fell into
 the icy cold water. Ali was a heavy-set guy, and the scene reminded me of the
 [upturned kayak with the massive French guy]({{ site.baseurl }}{% post_url
-2010-02-11-snorkelling-at-angthong-national-marine-park %}) in Koh Samui. But
-unlike the French guy, we managed to pull Ali back into his kayak, but he was
-completely drenched. For some reason, he chose not to go back to the junk to get
-a change of clothes, but decided to row soaking wet. We kayaked to a large cave
-where we discovered a huge, badly injured jellyfish. It was still moving, but
-there was nothing anyone could do to help it. It was way too risky to try and
-put it back into the sea. Once back in the junk, we sailed to Sung Sot cave. The
-cave was simply gigantic, and was split into three enormous rooms. The fine
-finish of the ceiling looked so much like concrete that it was really hard to
-believe that it wasn't man-made.
+travels/2010-02-11-snorkelling-at-angthong-national-marine-park %}) in Koh
+Samui. But unlike the French guy, we managed to pull Ali back into his kayak,
+but he was completely drenched. For some reason, he chose not to go back to the
+junk to get a change of clothes, but decided to row soaking wet. We kayaked to a
+large cave where we discovered a huge, badly injured jellyfish. It was still
+moving, but there was nothing anyone could do to help it. It was way too risky
+to try and put it back into the sea. Once back in the junk, we sailed to Sung
+Sot cave. The cave was simply gigantic, and was split into three enormous rooms.
+The fine finish of the ceiling looked so much like concrete that it was really
+hard to believe that it wasn't man-made.
 
 {% include image.html
     img="assets/travels/2010-03-04-view-from-sung-sot-cave.jpg"

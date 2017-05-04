@@ -36,23 +36,23 @@ Aranyaprathet.
     caption="I still have hope that one day railway stations in India will reach
         this level of cleanliness" %}
 
-Remember [how much I had complained]({{ site.baseurl }}{% post_url 2010-02-10-koh-samui %})
-about the train that we took to get from Bangkok to Surat Thani? This train to
-Aranyaprathet however, made the earlier train seem like flying first-class. This
-train only had cushion-less hard seats, was hot and humid and crowded, and
-seemed to stop every five minutes. But the best part was that this journey was
-really off the regular tourist-track. This was how the locals travelled. There
-were old women arguing, students playing pranks on each other, people haggling
-over foodstuff, schoolgirls sharing lunchboxes and so on and so forth. There was
-much for me to see, and I was an oddity for everyone else to gape at. To add to
-everyone's interest, I took out my country flag patches and started stitching
-the flag of Thailand onto my backpack. As you'd expect, people around me were
-intrigued by what I was doing and were craning their necks to see what this
-obvious outsider was up to. After staring for a while, the woman sitting next to
-me couldn't hold back her curiosity any more, and asked me something in Thai. I
-hadn't the faintest clue about what she said, and with no possibility of finding
-someone to translate, both of us had to be content with embarrassed
-smiles and shrugs.
+Remember [how much I had complained]({{ site.baseurl }}{% post_url
+travels/2010-02-10-koh-samui %}) about the train that we took to get from
+Bangkok to Surat Thani? This train to Aranyaprathet however, made the earlier
+train seem like flying first-class. This train only had cushion-less hard seats,
+was hot and humid and crowded, and seemed to stop every five minutes. But the
+best part was that this journey was really off the regular tourist-track. This
+was how the locals travelled. There were old women arguing, students playing
+pranks on each other, people haggling over foodstuff, schoolgirls sharing
+lunchboxes and so on and so forth. There was much for me to see, and I was an
+oddity for everyone else to gape at. To add to everyone's interest, I took out
+my country flag patches and started stitching the flag of Thailand onto my
+backpack. As you'd expect, people around me were intrigued by what I was doing
+and were craning their necks to see what this obvious outsider was up to. After
+staring for a while, the woman sitting next to me couldn't hold back her
+curiosity any more, and asked me something in Thai. I hadn't the faintest clue
+about what she said, and with no possibility of finding someone to translate,
+both of us had to be content with embarrassed smiles and shrugs.
 
 {% include image.html
     img="assets/travels/2010-02-16-settlements-next-to-tracks.jpg"
