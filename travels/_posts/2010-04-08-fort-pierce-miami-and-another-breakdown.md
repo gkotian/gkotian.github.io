@@ -79,7 +79,7 @@ Ecuador, and this is probably what made them nervous. They asked to see the
 credit card I had used to purchase my tickets, wanted to know what exactly I was
 going to do in Ecuador, and some other related stuff. But these staff were
 really nice and polite, and not the least bit like the [horrendous Air Arabia
-personnel]({% post_url 2010-03-21-going-global-again %}).
+personnel]({{ site.baseurl }}{% post_url 2010-03-21-going-global-again %}).
 
 Once they were satisfied that I was an ok guy after all, I finally joined my
 co-passengers on the plane.

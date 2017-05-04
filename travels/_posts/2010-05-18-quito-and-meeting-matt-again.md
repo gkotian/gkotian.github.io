@@ -9,8 +9,7 @@ excerpt: For the past several weeks, I had been surrounded by people and had qui
 For the past several weeks, I had been surrounded by people and had quite
 forgotten that I was actually on this trip all by myself. That realization
 struck suddenly when I disembarked in the bus terminal at Quito, and I felt
-momentarily confused and overwhelmed, much like [on first landing in Ecuador]({%
-post_url 2010-04-09-at-last-ecuador %}). But this time I had the advantage of at
+momentarily confused and overwhelmed, much like [on first landing in Ecuador]({{ site.baseurl }}{% post_url 2010-04-09-at-last-ecuador %}). But this time I had the advantage of at
 least understanding some common Spanish words and being able to make simple
 sentences. After walking about the bus terminal for half an hour, I walked up to
 the information desk and picked up a couple of maps - one of Quito and another

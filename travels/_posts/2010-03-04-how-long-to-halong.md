@@ -42,7 +42,7 @@ giant had planted them there. They were so alien and seemed unnatural, but were
 also quite breathtaking. The junk docked at a small port, where we got into
 kayaks in pairs. Ali lost his footing while getting into his kayak and fell into
 the icy cold water. Ali was a heavy-set guy, and the scene reminded me of the
-[upturned kayak with the massive French guy]({% post_url
+[upturned kayak with the massive French guy]({{ site.baseurl }}{% post_url
 2010-02-11-snorkelling-at-angthong-national-marine-park %}) in Koh Samui. But
 unlike the French guy, we managed to pull Ali back into his kayak, but he was
 completely drenched. For some reason, he chose not to go back to the junk to get

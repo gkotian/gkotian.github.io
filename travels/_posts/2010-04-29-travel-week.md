@@ -123,4 +123,4 @@ travels.
 
 By the end of the week, I had begun to miss Salasaca, and I was glad to be back
 home on the 5th day. We played a tiring game of football and went
-[pig-slapping]({% post_url 2010-04-30-pig-slapping %}) to celebrate!
+[pig-slapping]({{ site.baseurl }}{% post_url 2010-04-30-pig-slapping %}) to celebrate!

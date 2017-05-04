@@ -6,11 +6,11 @@ categories:
 excerpt: If they made it so difficult to enter the United States, they made it equally simple to leave. This policy actually made a lot of sense. I can but merely wonder what the Vietnamese were thinking when they decided to make it quite simple to get into their country but gave me a pretty hard time when leaving.
 ---
 
-If they made it [so difficult to enter the United States]({% post_url
+If they made it [so difficult to enter the United States]({{ site.baseurl }}{% post_url
 2010-04-03-usa %}), they made it equally simple to leave. This policy actually
 made a lot of sense. I can but merely wonder what the Vietnamese were thinking
 when they decided to make it quite simple to get into their country but gave me
-[a pretty hard time when leaving]({% post_url 2010-03-08-back-to-india %}).
+[a pretty hard time when leaving]({{ site.baseurl }}{% post_url 2010-03-08-back-to-india %}).
 
 Anyway, so here I was on my way to Ecuador. My first time ever in South America.
 My first time ever in the southern hemisphere of the planet. What an absolutely

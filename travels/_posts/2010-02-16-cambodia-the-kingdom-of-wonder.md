@@ -36,7 +36,7 @@ Aranyaprathet.
     caption="I still have hope that one day railway stations in India will reach
         this level of cleanliness" %}
 
-Remember [how much I had complained]({% post_url 2010-02-10-koh-samui %})
+Remember [how much I had complained]({{ site.baseurl }}{% post_url 2010-02-10-koh-samui %})
 about the train that we took to get from Bangkok to Surat Thani? This train to
 Aranyaprathet however, made the earlier train seem like flying first-class. This
 train only had cushion-less hard seats, was hot and humid and crowded, and

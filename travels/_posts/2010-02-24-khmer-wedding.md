@@ -19,7 +19,8 @@ so I sent her a reminder email.
 
 Today was the third day of this three-day-long wedding, and I made it to the
 agreed-upon meeting place at the agreed-upon time. To my surprise, Echo, who had
-vanished in Siem Reap after [fighting with the old tuk-tuk driver]({% post_url
+vanished in Siem Reap after [fighting with the old tuk-tuk driver]({{
+site.baseurl }}{% post_url
 2010-02-18-the-other-temples-around-angkor-wat %}), was also there. No-one else
 turned up; so Mariam drove the two of us to the wedding hall. We were among the
 early guests to arrive, for arrangements for the actual ceremonies were still

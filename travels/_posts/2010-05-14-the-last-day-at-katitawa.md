@@ -93,7 +93,7 @@ glaring gaffe, one of the kids couldn't take it anymore and loudly shouted,
     title="pond-2"
     caption="Another view" %}
 
-[Here]({% post_url 2010-04-14-pond-work-begins %}){:target="_blank"} is what the
+[Here]({{ site.baseurl }}{% post_url 2010-04-14-pond-work-begins %}){:target="_blank"} is what the
 pond looked like just a few weeks ago.
 
 {% include image.html

@@ -62,7 +62,7 @@ in sight - the first time this has happened in tourist infested Siem Reap.
 
 Next I went back to Angkor Wat for one last look. Despite so many visits to
 Angkor Wat over the past few days, I feel that I still haven't covered it well
-enough. [Although on an earlier occasion]({% post_url 2010-02-17-angkor-wat %}),
+enough. [Although on an earlier occasion]({{ site.baseurl }}{% post_url 2010-02-17-angkor-wat %}),
 I had been privy to sections that were off limits for tourists, there was a lot
 that I had glazed over. I simply didn't have the time to cover it now, so it
 would have to wait until my next visit.
