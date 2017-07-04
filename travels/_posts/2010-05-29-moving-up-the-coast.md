@@ -123,5 +123,8 @@ ride, I offered to give the man some money, but he just smiled and drove off.
 well-known party place, and every hotel I went to was packed. I was told that
 this is the case every weekend, and I'd have better luck finding accomodation in
 the nearby town of Sua. Having no other alternative, I came to Sua, which in
-comparison was much more relaxed and peaceful. Finding a decent place to spend
-the night was also much easier here.
+comparison was much more relaxed and peaceful.
+
+I found a decent place to spend the night quite easily, kept my bags in the room
+and went to one of many beachside bars to sip on a cocktail. It was a relaxing
+end to an otherwise tiring day.
