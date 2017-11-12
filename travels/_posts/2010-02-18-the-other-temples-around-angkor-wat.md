@@ -23,6 +23,12 @@ another deal with a young tuk-tuk driver this time. He seemed to be a friendly
 chap and we were all looking forward to a fun and relaxed sightseeing day.
 
 {% include image.html
+    img="assets/travels/2010-02-18-three-day-pass.jpg"
+    title="My three day pass"
+    caption="My personalised three day pass for the entire Angkor Archaeological
+        Park" %}
+
+{% include image.html
     img="assets/travels/2010-02-18-tuk-tuk.jpg"
     title="Our tuk-tuk"
     caption="Paul, Talita, Juli & I with our initially friendly tuk-tuk driver" %}
@@ -40,25 +46,25 @@ chap and we were all looking forward to a fun and relaxed sightseeing day.
 
 We visited Banteay Srei and one other temple, and then stopped for lunch. We had
 heard of there being two menus at every restaurant in Siem Reap - one for the
-tourists and one for the locals. Rumour was that tourists paid upto five times
-as much money as the locals did for the same dishes. So when the waitress at the
+tourists and one for the locals. Rumour has it that tourists pay upto five times
+as much as the locals for the exact same dishes. So when the waitress at the
 restaurant brought us the menu, we insisted on the "locals menu". They never
 showed us that menu, but agreed to charge us only half the price listed on the
 regular menu.
 
 The restaurant people probably gave the tuk-tuk driver an earful for having
-brought these stingy tourists to them, because the tuk-tuk driver's demenour
-changed drastically. He was suddenly snobby and super impatient. He said the
-temples tour was over and we would now be going back to the guesthouse. But we
-reminded him that that was not what was agreed upon. At one point, he took off
-his helmet and banged it hard on the bonnet of the tuk-tuk. This shocked
-every one of us, but I put up a brave front and said in the calmest voice I
-could muster that we wouldn't pay him any money if we didn't go to all the
-agreed upon places. Even though I hoped that I appeared unfazed by him; inside,
-I was more than a little scared. This guy was clearly a psycho and I was
-half-expecting him to hurl his helmet right at me. But that didn't happen.
-Instead, he muttered something under his breath and stopped at the next temple
-on the route - Pre Rup.
+brought these stingy tourists to them, because the tuk-tuk driver's demeanour
+changed drastically when we got back on his ride after lunch. He was suddenly
+snobby and super impatient. He said the temples tour was over and we would now
+be going back to the guesthouse. But we reminded him that that was not what was
+agreed upon. At one point, he took off his helmet and banged it hard on the
+bonnet of the tuk-tuk. This shocked every one of us, but I put up a brave front
+and said in the calmest voice I could muster that we wouldn't pay him any money
+if we didn't go to all the agreed upon places. Even though I hoped that I
+appeared unfazed by him; inside, I was more than a little scared. This guy was
+clearly a psycho and I was half-expecting him to hurl his helmet right at me.
+But that didn't happen. Instead, he muttered something under his breath and
+stopped at the next temple on the route - Pre Rup.
 
 Conversation in the tuk-tuk had been reduced to hushed tones, and we were glad
 when we were finally out of it and safely back in the guesthouse. Needless to
