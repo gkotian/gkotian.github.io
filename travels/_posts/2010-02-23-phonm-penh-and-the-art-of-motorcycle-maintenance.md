@@ -20,6 +20,11 @@ discover that my place was already taken. There was a large Chinese family
 travelling in the same bus, and they also had a ticket with the same seat
 number.
 
+{% include image.html
+    img="assets/travels/2010-02-23-ticket.jpg"
+    title="Ticket"
+    caption="My bus ticket with the coveted seat #20" %}
+
 A brief argument between me and the conductor of the bus followed (an argument
 that was doomed to fail from the start as there was no common language to argue
 in). Finally, the conductor pointed me to an aisle seat. But I didn't want an
@@ -41,10 +46,11 @@ him to take a ride back home. This made me really uncomfortable. But we'd been
 talking for a long time, and I found it hard to refuse outright. So I
 reluctantly gave him whatever change I had (I think it was about 2000 Riel).
 
-In the evening, I went to explore around a bit, and met another African dude.
-This guy said he was from Liberia, and also asked for some change. This time I
-just walked away. I hate to make general assumptions, but thanks to these two
-guys, I think I'm going to avoid Africans in Phnom Penh :(
+In the evening, I went to explore around a bit, and met another seemingly
+friendly African dude. This guy said he was from Liberia, and also asked for
+some change. This time I just walked away. I hate to make general assumptions,
+but thanks to these two guys, I think I'm going to avoid Africans in Phnom Penh
+:(
 
 {% include image.html
     img="assets/travels/2010-02-23-fountain.jpg"
