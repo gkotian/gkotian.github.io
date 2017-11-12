@@ -10,9 +10,17 @@ Echo came back to the guesthouse early next morning, and said that she and her
 German friend - Juli - had found another guesthouse where a single bed cost only
 1 USD per night. To be honest, I liked my current room and didn't want to leave,
 but it would be more practical to stay close to people I would be hanging out
-with, so I decided to move there. The other guesthouse was called Garden
-Village, and it came with a rooftop bar. This place was also nice, and I rented
-for myself a single bed in one of the huts there.
+with, so I decided to move there.
+
+When I told Mr. Ni Ni that I was checking out, he seemed to be more angry than
+disappointed. I clearly didn't remind him of his best friend then. He angrily
+told me that I shouldn't listen to the Chinese girl as she is not a nice person.
+He also forgot about the 1 dollar "discount" he had promised me the previous
+evening.
+
+The other guesthouse was called Garden Village, and it came with a rooftop bar.
+This place was also nice, and I rented for myself a single bed in one of the
+huts there.
 
 {% include image.html
     img="assets/travels/2010-02-17-my-bed.jpg"
