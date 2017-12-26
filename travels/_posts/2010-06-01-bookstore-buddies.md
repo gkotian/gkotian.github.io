@@ -31,22 +31,28 @@ what I was looking for, but was happy to share his experience with me. He said,
 you need when you're simply walking along looking at things, than when you're
 actually searching for it".
 
+{% include image.html
+    img="assets/travels/2010-06-01-the-english-bookshop.jpg"
+    title="The English Bookshop"
+    caption="Entrance of The English Bookshop"
+    courtesy="https://www.facebook.com/The-English-Bookshop-256218767815343" %}
+
 It was, however, a little too late for me to walk along looking for the
 guidebook, so I went straight to another bookshop. There was no guidebook in
 this shop either, but I ran into a young English couple who were also in search
-of a guide to Colombia. They had also been to The English Bookshop before coming
-here. We wished each other luck, and continued our common quest separately...
-only to meet again at the next bookshop.
+of a guide book to Colombia. They had also been to The English Bookshop before
+coming here. We wished each other luck, and continued our common quest
+separately... only to meet again at the next bookshop.
 
 We ran into each other again at the next bookshop, and then once again at the
-next one. This time, when leaving I said to them, "See you guys at the next
+next. This time, when leaving I said to them, "See you guys at the next
 bookshop", and sure enough, there they were again. Just for the avoidance of
 doubt, I should point out that all these bookshops we were going to are actually
 quite distant from each other, and are spread out over a large area in the "La
 Mariscal" region of Quito. So despite being after the same goal, the probability
-of us running into each other time and again was actually quite small! Finally,
-the English couple decided to invest in an expensive new Lonely Planet guide,
-while I settled for going to Colombia without any guidebook.
+of us running into each other time and again was actually not that high!
+Finally, the English couple decided to invest in an expensive new Lonely Planet
+guide, while I settled for going to Colombia without any guidebook.
 
 As I wrote earlier, Colombia has become a hot traveler destination in the past
 few years, and guidebooks (even new ones) are hard to find. Bookshop owners love
