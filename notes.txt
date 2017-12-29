@@ -10,3 +10,8 @@ For a portrait image:
 ---------------------
     (added after the 'img=...' line)
     portrait_image="true"
+
+To link to a different post:
+----------------------------
+    use the regular link syntax, but in the link parentheses use something like:
+        {{ site.baseurl }}{% post_url travels/2010-04-29-travel-week %}
