@@ -6,7 +6,7 @@ Some other trivia about me (in no particular order):
 
 - I read a lot of articles on Wikipedia [on](https://en.wikipedia.org/wiki/Just-world_hypothesis) [a](https://en.wikipedia.org/wiki/Majid_Majidi) [very](https://en.wikipedia.org/wiki/Pitcairn_Islands) [wide](https://en.wikipedia.org/wiki/Seppuku) [range](https://en.wikipedia.org/wiki/Dream_telepathy) [of](https://en.wikipedia.org/wiki/Pomodoro_Technique) [topics](https://en.wikipedia.org/wiki/In-Memory_Processing).
 - I used to be a terrible cook until I decided to change that; and now I am pretty good.
-- I do not like to watch television, and I do not own one.
+- I don't own a television, and I think that both amazes and disappoints my parents.
 - Most people know me by my nickname - Googie.
 - I have an uncontrollable urge to fix dog-eared books when I see them.
 - I am a [Vim](https://en.wikipedia.org/wiki/Vim_(text_editor)) crackerjack!
