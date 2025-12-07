@@ -1,5 +1,6 @@
 body {
   font-family: Arial, sans-serif;
+  font-size: 18px;
   background: #A4CFBE;
   color: #6C6E58;
 }
@@ -122,8 +123,19 @@ a:visited {
 }
 
 #content p {
-  line-height: 140%;
+  line-height: 1.6;
   letter-spacing: -0.03em;
+}
+
+#content li {
+  line-height: 1.6;
+  margin-bottom: 0.8em;
+}
+
+#content h3 {
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  color: #417378;
 }
 
 span.date {
@@ -209,6 +221,15 @@ div.related {
 
 .about_content {
   float: left;
+}
+
+.about_photo img {
+  border-radius: 1em;
+}
+
+.about_photo {
+  float: right;
+  margin: 0 0 1em 1.5em;
 }
 
 #content .about_content h2 {

@@ -3,20 +3,13 @@ layout: default
 title: Gautam Kotian
 ---
 
-<div class='about_content' id='about_left'>
-    <div class='about_me'>
-        <div class='about_me_body'>
-            {% capture about_text %}{% include about-me.md %}{% endcapture %}
-            {{ about_text | markdownify }}
-        </div>
+<div class='about_me'>
+    <a href="/assets/tattoo.jpg" title="Gautam Kotian" class="about_photo">
+        <img src="/assets/tattoo.jpg" width="240" height="320" alt="Gautam Kotian"/>
+    </a>
+    <div class='about_me_body'>
+        {% capture about_text %}{% include about-me.md %}{% endcapture %}
+        {{ about_text | markdownify }}
     </div>
-</div>
-
-<div class='about_content' id='about_right'>
-    <span style="margin:0 10px; float:right">
-        <a href="/assets/tattoo.jpg" title="Gautam Kotian">
-            <img src="/assets/tattoo.jpg" width="240" height="320" alt="Gautam Kotian"/>
-        </a>
-    </span>
 </div>
 

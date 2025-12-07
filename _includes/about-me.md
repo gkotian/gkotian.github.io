@@ -2,7 +2,7 @@ Hi, I'm Gautam.
 
 I build software for a living and travel to stay sane. Most people call me Googie. That's spelled with an `i` and not an `l`, and yes, it predates the search engine. If you ply me with a sufficient quantity of beer, I might even tell you how I got that nickname.
 
-Here's some other trivia about me.
+Here's some other random trivia about me.
 
 ### The Professional Computerer
 
