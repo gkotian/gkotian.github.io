@@ -1,9 +1,8 @@
-version: '2'
-
 services:
   jekyll:
-    image: bretfisher/jekyll-serve
+    image: jekyll/jekyll:4
+    command: jekyll serve --watch --force_polling
     volumes:
-      - .:/site
+      - .:/srv/jekyll
     ports:
-      - '80:4000'
+      - '3000:4000'
