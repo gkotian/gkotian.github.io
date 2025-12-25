@@ -307,7 +307,8 @@ a img { border: 0; }
   overflow: hidden;
 }
 
-.PageNavigation a {
+.PageNavigation .prev,
+.PageNavigation .next {
   display: block;
   width: 50%;
   float: left;
