@@ -21,7 +21,7 @@ Here's some other random trivia about me.
 
 - I learned to inline skate at 40 because childhood me never got the chance. Turns out gravity hits harder at 40, and stopping on skates is roughly as difficult as exiting Vim.
 - I'm currently learning to swim properly - because they told me 'not drowning' isn't a valid swimming stroke.
-- I really like to ski. It would help if I were any good at it, but the après-ski is where I truly shine.
+- I really like to ski. You'll find me on the bunny slopes, where the 5-year-olds enjoy having someone they can finally beat.
 - I play football ([the real kind](https://en.wikipedia.org/wiki/Association_football){:target="_blank"}) and I'm a decent defender - which mostly just means I'm good at getting in the way.
 
 ### Quirktastic-etc
