@@ -3,7 +3,6 @@ layout: post
 title: The Cu Chi tunnels
 categories:
 - Vietnam
-excerpt: Early next morning, Golan, the Australian couple & I boarded our tour bus to the Cu Chi tunnels. On the way there, we visited a small scale industry where handicrafts were being produced by handicapped people. The stuff on display was quite fantastic, but it was just another overpriced tourist trap, and nobody bought anything.
 ---
 
 Early next morning, Golan, the Australian couple & I boarded our tour bus to the

@@ -3,7 +3,6 @@ layout: post
 title: Back in Bangkok
 categories:
 - Thailand
-excerpt: The next morning we took the ferry out of Koh Samui, went to the Surat Thani airport and caught a flight to Bangkok. It was already evening by the time we landed, and not having any good ideas about what to do next, took a taxi to the one place we knew well - Khao San Road, only to have the greatest disappointment of our trip
 ---
 
 The next morning we took the ferry out of Koh Samui, went to the Surat Thani

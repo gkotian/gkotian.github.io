@@ -3,7 +3,6 @@ layout: post
 title: Pig Slapping
 categories:
 - Ecuador
-excerpt: This post is cruel, and will not go down well with animal lovers. Personally I am against the actions that I will proceed to describe in this post, but yes, I have been guilty of indulging in and encouraging it.
 ---
 
 **Warning: This post is cruel, and will not go down well with animal lovers.

@@ -3,7 +3,6 @@ layout: post
 title: Exploring Hanoi
 categories:
 - Vietnam
-excerpt: I woke up early to try and hire a motorcycle for the day. The guesthouse was quoting 10 USD, but I knew I could get a better price. So I ventured out, and asked the driver of a random motorbike taxi. He asked for an outrageous 1 million Dong (which works out to around 52 USD).
 ---
 
 I woke up early to try and hire a motorcycle for the day. The guesthouse was

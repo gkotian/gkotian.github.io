@@ -3,7 +3,6 @@ layout: post
 title: The US Visa
 categories:
 - India
-excerpt: There is a page on wikipedia that lists visa requirements for Indian citizens. As is clearly evident, there are only a few countries where an Indian can happily go to without a visa. As you would expect, the USA is not one of them.
 ---
 
 There is a page on wikipedia that lists [visa requirements for Indian citizens](

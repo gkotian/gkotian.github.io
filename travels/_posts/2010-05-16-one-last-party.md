@@ -3,7 +3,6 @@ layout: post
 title: One last party
 categories:
 - Ecuador
-excerpt: Sunday, the 16th of May 2010 was going to be my last day in Salasaca, so preparations were underway (to be read as rum was bought) for a final party on Saturday night. It so happened that a big community celebration was going to happen in Salasaca centre on the same night.
 ---
 
 Sunday, the 16th of May 2010 was going to be my last day in Salasaca, so

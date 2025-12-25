@@ -3,7 +3,6 @@ layout: post
 title: Flight to Hanoi
 categories:
 - Vietnam
-excerpt: After a long breakfast with Golan & Lisa, we said our goodbyes. I was lucky to have found such nice people to hang out with in HCMC, and I was going to miss them.
 ---
 
 After a long breakfast with Golan & Lisa, we said our goodbyes. I was lucky to

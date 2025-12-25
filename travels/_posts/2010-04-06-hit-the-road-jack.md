@@ -3,7 +3,6 @@ layout: post
 title: Hit the road Jack!
 categories:
 - United States of America
-excerpt: I wanted to rent a car at Avis car rental and drive it from Atlanta to Miami, returning it at the airport just before catching my flight to Ecuador. What I didn't know was that one has to pay through the nose if the locations of hire and return of the car fall in different states.
 ---
 
 I wanted to rent a car at Avis car rental and drive it from Athens to Miami,

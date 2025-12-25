@@ -3,7 +3,6 @@ layout: post
 title: The drive continues
 categories:
 - United States of America
-excerpt: I packed my things, wrote a thank you note for Sara on a postcard and left very early in the morning, before any of the girls got up; and drove straight to Avis. The lady there was rather rude and unhelpful, and said that the cheapest option for me was to stick to my shitty car by paying an additional 160 USD.
 ---
 
 I packed my things, wrote a thank you note for Sara on a postcard and left very

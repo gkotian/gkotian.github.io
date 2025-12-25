@@ -3,7 +3,6 @@ layout: post
 title: Cartagena
 categories:
 - Colombia
-excerpt: TODO
 ---
 
 Cartagena is the city most visited by tourists in Colombia, and it was going to be my last city in South America (in this trip). I took the convenient door-to-door shuttle service between Santa Marta and Cartagena, and checked myself into a hostel.

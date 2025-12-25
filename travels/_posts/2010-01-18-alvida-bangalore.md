@@ -3,7 +3,6 @@ layout: post
 title: Alvida Bangalore
 categories:
 - India
-excerpt: Since getting the US visa, I had become lazy and procrastination had set in. Before I knew it, almost an entire precious month had gone by and I hadn't really done much to further my travelling cause.
 ---
 
 Since getting the US visa, I had become lazy and procrastination had set in.

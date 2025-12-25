@@ -3,7 +3,6 @@ layout: post
 title: Going global again
 categories:
 - United Arab Emirates
-excerpt: Finally I can resume writing about what this blog is meant for, Googie going global.
 ---
 
 Finally I can resume writing about what this blog is meant for, Googie going

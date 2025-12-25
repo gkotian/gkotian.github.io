@@ -3,7 +3,6 @@ layout: post
 title: The best laid plans :)
 categories:
 - India
-excerpt: The entire next week I did practically nothing in Delhi. Every evening after he would finish work, OJ would take me to his favourite hangouts in Delhi (with Velocity Bar & Lounge being the preferred location). But during the day, I would just laze around the house or wander around the city on OJ's motorcycle. But after a week, I was fed up and just wanted to go somewhere... anywhere!
 ---
 
 The entire next week I did practically nothing in Delhi. Every evening after he

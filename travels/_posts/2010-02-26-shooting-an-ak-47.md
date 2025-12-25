@@ -3,7 +3,6 @@ layout: post
 title: Shooting an AK-47
 categories:
 - Cambodia
-excerpt: It was a cold, snowy night in Chicago (sometime in February 2008) when I went to watch an NBA game with my colleagues - Gowdish & Ramesh. After the game, I remember saying to them, "There are two kinds of people in the world - those who have watched an NBA game, and those who haven't".
 ---
 
 It was a cold, snowy February night in Chicago when I went to watch a basketball

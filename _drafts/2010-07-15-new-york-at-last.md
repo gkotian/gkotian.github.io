@@ -3,7 +3,6 @@ layout: post
 title: New York at last
 categories:
 - USA
-excerpt: TODO
 ---
 
 The bus was filled with people of Chinese origin, and I stuck out like a sore thumb. But as promised, it dropped me off early next morning in the middle of Chinatown in Manhattan. After having a quick breakfast, I decided that I would finally realise my long cherished dream – of walking across the Brooklyn bridge. I am told that “normal” people have long cherished dreams of owning an apartment with a view in one of the innumerable skyscrapers in this city. So what does this make me – abnormal? Lack of ambition, perhaps :)

@@ -3,7 +3,6 @@ layout: post
 title: How To Confuse A Taxi Driver
 categories:
 - Thailand
-excerpt: It was quite late when we finally got dropped off at Haad Lamai beach. We were quite sure that we'd never manage to catch the last ferry off the island, but we decided to give it a shot anyway.
 ---
 
 It was quite late when we finally got dropped off at Haad Lamai beach. We were

@@ -38,7 +38,7 @@ bundle exec jekyll serve
 - `assets/travels/` - Travel post images
 
 ### Post Front Matter
-Posts use standard Jekyll front matter with `layout: post` and `title`. The `<!--more-->` separator (configured in `_config.yml`) marks the excerpt boundary.
+Posts use standard Jekyll front matter with `layout: post` and `title`.
 
 ### Image Include Usage
 ```liquid

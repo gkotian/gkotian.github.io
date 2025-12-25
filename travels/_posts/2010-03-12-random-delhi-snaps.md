@@ -3,7 +3,6 @@ layout: post
 title: Random Delhi snaps
 categories:
 - India
-excerpt: Random Delhi snaps
 ---
 
 {% include image.html

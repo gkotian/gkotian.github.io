@@ -3,7 +3,6 @@ layout: post
 title: El Panecillo & Mitad del Mundo
 categories:
 - Ecuador
-excerpt: El Panecillo is a small bread-shaped hill on which stands the gigantic statue of The Virgin Mary overlooking Quito, and supposedly protecting it from the volcanoes. Besides being an enormous structure, it is probably the only place where the Madonna is depicted in a dancing pose, and where she has wings.
 ---
 
 El Panecillo is a small bread-shaped hill on which stands the gigantic statue of

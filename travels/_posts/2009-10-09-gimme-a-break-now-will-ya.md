@@ -3,7 +3,6 @@ layout: post
 title: Gimme a break now, will ya!
 categories:
 - India
-excerpt: So what do I want to do next?
 ---
 
 I have always loved to travel, just like my parents. Owing to them, I have been

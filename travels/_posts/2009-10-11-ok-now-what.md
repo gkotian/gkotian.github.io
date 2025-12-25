@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Ok... Now what?
-excerpt: If someone ever tells you that a world trip is easier said than done, then trust me, it would be one of the biggest understatements you'll ever hear.
 ---
 
 If someone ever tells you that a world trip is easier said than done, then trust

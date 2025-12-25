@@ -4,7 +4,6 @@ title: Ecuador to Colombia border crossing
 categories:
 - Colombia
 - Ecuador
-excerpt: This post is a series of steps intended to help other travelers who may be doing the same over-land border crossing from Ecuador to Colombia that I did.
 ---
 
 This post is a series of steps intended to help other travelers who may be doing

@@ -3,7 +3,6 @@ layout: post
 title: Back to the USA
 categories:
 - USA
-excerpt: TODO
 ---
 
 After spending 25 days in Colombia, I left for the US on the last day when my visa would expire. The security checks at the airport were very stringent, particularly in my case. But I have accepted this as being part of having an Indian passport. Moreover, my terribly slow and totally lost meandering about with a blank look on my face probably causes people to suspect me even more.

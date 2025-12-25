@@ -3,7 +3,6 @@ layout: post
 title: Pick-pocketed in Quito
 categories:
 - Ecuador
-excerpt: I was among the first people to show up at the Colombian consulate in the morning. The efficient lady behind the counter took my documents and said that they would need a few days to check if everything was in order. She also gave me a number to call on Friday morning to check whether I've been granted the visa or not.
 ---
 
 I was among the first people to show up at the Colombian consulate in the

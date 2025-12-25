@@ -3,7 +3,6 @@ layout: post
 title: Travel week
 categories:
 - Ecuador
-excerpt: I was going to take a week off to travel with Nicolas & Lizzy. But Nicolas had to stay back and finish the theatre show he had been working on at the library and Lizzy had been bitten by a dog a few days earlier. So it looked like I would be going on my own.
 ---
 
 I was going to take a week off to travel with Nicolas & Lizzy. But Nicolas had

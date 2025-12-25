@@ -3,7 +3,6 @@ layout: post
 title: Duong and the Hanoi CSers
 categories:
 - Vietnam
-excerpt: A Vietnamese couchsurfer called Duong had written to me to ask if I'd like to hang out in Hanoi. She was from Ho Chi Minh city, but was in Hanoi for a few days on a work-related trip. Her couchsurfing profile was mostly empty and there were no pictures, so I was a bit hesitant at first, but then agreed to meet for coffee.
 ---
 
 A Vietnamese couchsurfer called Duong had written to me to ask if I'd like to

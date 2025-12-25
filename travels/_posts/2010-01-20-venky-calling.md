@@ -3,7 +3,6 @@ layout: post
 title: Venky calling
 categories:
 - India
-excerpt: My cousin Prit who lives in Germany was on a brief visit to India, and had come to meet friends in Bangalore. Whenever Prit comes to India, he tries to make it to the famous Venkateshwara temple in Tirupati and this time was no exception.
 ---
 
 My cousin Prit who lives in Germany was on a brief visit to India, and had come

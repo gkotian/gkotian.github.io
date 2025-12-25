@@ -3,7 +3,6 @@ layout: post
 title: The other temples around Angkor Wat
 categories:
 - Cambodia
-excerpt: The Angkor Archaeological Park contains many old temples, of which Angkor Wat is the most famous. Echo, Juli & I wanted to dedicate one full day to only check out the other temples in the region.
 ---
 
 The Angkor Archaeological Park contains many old temples, of which Angkor Wat is

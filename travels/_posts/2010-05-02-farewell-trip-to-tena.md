@@ -3,7 +3,6 @@ layout: post
 title: Farewell trip to Tena
 categories:
 - Ecuador
-excerpt: Many volunteers were leaving Katitawa to continue with their travels. As a sort of farewell trip, we all decided to travel to Tena at the edge of the Amazonian rainforest of Ecuador.
 ---
 
 Many volunteers were leaving Katitawa to continue with their travels. As a sort

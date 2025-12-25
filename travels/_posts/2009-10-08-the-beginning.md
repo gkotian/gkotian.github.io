@@ -3,7 +3,6 @@ layout: post
 title: How it all began...
 categories:
 - India
-excerpt: It was a warm summer morning in New Delhi when I got a call from my supervisor at work. He sounded grim when he said, "I have some bad news for you, the company has announced the next set of lay-offs, and your job is getting affected. You'll be with us for only 6 more months".
 ---
 
 It was a warm summer morning in New Delhi when I got a call from my supervisor

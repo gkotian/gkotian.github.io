@@ -3,7 +3,6 @@ layout: post
 title: Snorkelling at Angthong National Marine Park
 categories:
 - Thailand
-excerpt: The snorkelling package tour at Koh Samui starts early in the morning, and we were picked up from our hotel at the crack of dawn.
 ---
 
 The snorkelling package tour at Koh Samui starts early in the morning, and we

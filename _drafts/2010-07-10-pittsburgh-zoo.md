@@ -3,7 +3,6 @@ layout: post
 title: Pittsburgh Zoo
 categories:
 - USA
-excerpt: TODO
 ---
 
 The rest of the week was spent in doing nothing but my “housewife” chores as usual.

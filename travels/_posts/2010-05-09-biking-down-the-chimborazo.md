@@ -3,7 +3,6 @@ layout: post
 title: Biking down the Chimborazo
 categories:
 - Ecuador
-excerpt: Matt had heard during his travels that it was possible to arrange for a biking tour down the Chimborazo, and that it was a great experience. He was going to Rio Bamba this weekend to do it, and I decided to join him. We reached Rio Bamba on Saturday evening, checked into a cheap room, and set off to arrange for the tour.
 ---
 
 Note that in this post "biking" refers to push-biking/bicycling. In India at

@@ -3,7 +3,6 @@ layout: post
 title: The Tuol Sleng genocide museum
 categories:
 - Cambodia
-excerpt: Today was a very productive day blogging wise. I went to the Lazy Gecko cafe close to my guesthouse, and sat there for close to 4 hours. They offer free wi-fi to their customers (as long as your bill exceeds $3). This was the third time in 2 days that I was going there
 ---
 
 Today was a very productive day blogging wise. I went to the Lazy Gecko cafe

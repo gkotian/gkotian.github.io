@@ -3,7 +3,6 @@ layout: post
 title: Mexico is out
 categories:
 - Thailand
-excerpt: I had to leave Tomi's house today as he would be having a friend over, but he agreed to let me keep my backpack at his house during the day while I roamed the city. The first thing I did was to go the closest mall, called Times Square, to look for some free wifi.
 ---
 
 I had to leave Tomi's house today as he would be having a friend over, but he

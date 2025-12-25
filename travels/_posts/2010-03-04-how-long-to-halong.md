@@ -3,7 +3,6 @@ layout: post
 title: How long to Halong?
 categories:
 - Vietnam
-excerpt: I had booked myself on a two days one night trip to Halong Bay on a junk boat for an outrageous 70 USD which I thought was a total rip-off.
 ---
 
 I had booked myself on a two days one night trip to Halong Bay on a [junk

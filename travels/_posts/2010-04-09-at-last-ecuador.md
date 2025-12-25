@@ -3,7 +3,6 @@ layout: post
 title: At last - Ecuador
 categories:
 - Ecuador
-excerpt: If they made it so difficult to enter the United States, they made it equally simple to leave. This policy actually made a lot of sense. I can but merely wonder what the Vietnamese were thinking when they decided to make it quite simple to get into their country but gave me a pretty hard time when leaving.
 ---
 
 If they made it [so difficult to enter the United States]({{ site.baseurl }}{%

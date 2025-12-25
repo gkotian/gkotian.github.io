@@ -3,7 +3,6 @@ layout: post
 title: Getting to New York
 categories:
 - USA
-excerpt: TODO
 ---
 
 OJ left for work early in the morning after saying a quick goodbye, and a few hours later; I took a long, slow but scenic route to the airport. After returning the car, I went to the check-in counter and was told that my flight was delayed by more than 5 hours. I settled down for an all-too-familiar long wait but barely 30 minutes later there was an update - the flight had been officially canceled due to bad weather. The tradition of the Breakdown Gang was being upheld :)

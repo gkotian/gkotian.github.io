@@ -3,7 +3,6 @@ layout: post
 title: Khao San Road
 categories:
 - Thailand
-excerpt: Our first stop in Bangkok was Khao San Road. Vinay had told me a lot about this backpacker friendly place packed with tourists, and it sure did not dissapoint.
 ---
 
 Our first stop in Bangkok was Khao San Road. Vinay had told me a lot about this

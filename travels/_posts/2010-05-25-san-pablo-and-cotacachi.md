@@ -3,7 +3,6 @@ layout: post
 title: San Pablo and Cotacachi
 categories:
 - Ecuador
-excerpt: When I had had enough of Otavalo, I thought I'd head to nearby San Pablo, find a tree next to its large lake, sit under it and read a book all day long. With this in mind, I got to the bus stand in Otavalo where there were several stalls selling food.
 ---
 
 When I had had enough of Otavalo, I thought I'd head to nearby San Pablo, find a

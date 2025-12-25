@@ -3,7 +3,6 @@ layout: post
 title: Bribe time
 categories:
 - India
-excerpt: TODO
 ---
 
 Ajay Rao’s house, beer crate 

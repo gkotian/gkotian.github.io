@@ -3,7 +3,6 @@ layout: post
 title: Un Patito Feo
 categories:
 - Ecuador
-excerpt: That means "An ugly duckling". The 30th of April was going to be the last working day at Katitawa for Ed, Tanya, Lizzy, Emma, Damir, Dotahn & Emmily. On their last day, we were planning to act out the ugly duckling (in Spanish) as a skit for the kids.
 ---
 
 That means "An ugly duckling".

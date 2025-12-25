@@ -3,7 +3,6 @@ layout: post
 title: Football in Ecuador
 categories:
 - Ecuador
-excerpt: As I was walking along the beach, I saw a group of guys playing football. Normally I would have asked them if I could join them, but for some reason I didn't. In a while, a police jeep came by carrying even more guys.
 ---
 
 As I was walking along the beach, I saw a group of guys playing football (i.e.

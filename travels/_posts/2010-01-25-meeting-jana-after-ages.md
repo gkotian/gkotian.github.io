@@ -3,7 +3,6 @@ layout: post
 title: Meeting Jana after ages
 categories:
 - India
-excerpt: The alarm rang a few hours later, and groggily we got to the Kurla station to catch my train to Varanasi. Prit also bought himself a ticket on the same train till Nashik. In the train, I traded my sleek new Blackberry for his basic Samsung phone because we thought it wouldn't be very wise to travel around in South America with an obviously expensive device. Nashik came in a few hours, and we parted with hope to meet again in Europe in a few months' time.
 ---
 
 We only got a few hours' worth of sleep, before it was time to leave once again.

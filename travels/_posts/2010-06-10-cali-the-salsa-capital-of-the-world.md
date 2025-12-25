@@ -3,7 +3,6 @@ layout: post
 title: Cali, the salsa capital of the world
 categories:
 - Colombia
-excerpt: Like me, the Dutch couple - Cris & Kim - were also going from Popayan to Cali. Along the way, we met an American guy called Ben who was also headed to Cali. So the four of us got a bus for the short 3 hour journey, and later shared a taxi to Hostel Iguana.
 ---
 
 Like me, the Dutch couple - Cris & Kim - were also going from Popayan to Cali.

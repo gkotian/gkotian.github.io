@@ -4,7 +4,6 @@ title: Frankfurt, and then New Delhi
 categories:
 - Germany
 - India
-excerpt: TODO
 ---
 
 The flight landed in Frankfurt in the wee hours of the morning and I called Jana. It was frustrating that we were just 300 km away but still couldn’t meet. Time seemed to fly quickly at Frankfurt, and before long I was on my Air India flight to New Delhi.

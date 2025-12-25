@@ -3,7 +3,6 @@ layout: post
 title: Yet another wild night
 categories:
 - Ecuador
-excerpt: Mitchell & Amy were volunteering only for a week, and would be leaving on Saturday morning, so we planned a farewell party on Friday night.
 ---
 
 Mitchell & Amy were volunteering only for a week, and would be leaving on

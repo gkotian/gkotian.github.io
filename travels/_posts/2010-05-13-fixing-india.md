@@ -3,7 +3,6 @@ layout: post
 title: Fixing India
 categories:
 - Ecuador
-excerpt: Some past volunteers of Katitawa had painted a beautiful large map of the world on one of the walls of the foyer of the library. But India had not been drawn correctly.
 ---
 
 Some past volunteers of Katitawa had painted a beautiful large map of the world

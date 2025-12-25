@@ -3,7 +3,6 @@ layout: post
 title: Tet celebrations in Chinatown
 categories:
 - Thailand
-excerpt: The first day by myself couldn't have been more uneventful. I just went to various malls around Bangkok just looking for free wifi. The Bangkok city administration is quite progressive in this regard, and provides free wifi service in several locations spread throughout the city
 ---
 
 The first day by myself couldn't have been more uneventful. I just went to

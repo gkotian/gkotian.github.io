@@ -3,7 +3,6 @@ layout: post
 title: Second day in Tayrona
 categories:
 - Colombia
-excerpt: TODO
 ---
 
 Thanks to the damned mosquitoes, I could hardly sleep and was up and about at 4.30. Besides being rather rude (very unlike most Colombians), the hostel staff had not bothered to place any toilet paper in the restrooms. I have noticed that people near the coasts tend to be generally unfriendly (going by the beaches in Goa, the Pacific coast in Ecuador and now the Caribbean coast in Colombia). I don’t know if this is due to the abundance of tourists or due to some other reason, but that is beside the point.

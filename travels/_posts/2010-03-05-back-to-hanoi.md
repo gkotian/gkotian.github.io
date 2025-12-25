@@ -3,7 +3,6 @@ layout: post
 title: Back to Hanoi
 categories:
 - Vietnam
-excerpt: The next morning, however, was time to say goodbye to my new friends. They had bought tickets for the longer version of the cruise and were now off to somewhere else while I was on my way back to Hanoi.
 ---
 
 The next morning, however, was time to say goodbye to my new friends. They had

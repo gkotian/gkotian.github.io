@@ -3,7 +3,6 @@ layout: post
 title: The mystery of the missing bicycle
 categories:
 - Cambodia
-excerpt: Over dinner the previous evening, I had promised to accompany Juli to go and catch the sunrise at Angkor Wat, which was supposed to be a big deal. Ryan, a traveller from the US, who was also staying at the same guesthouse was keen to join us.
 ---
 
 Over dinner the previous evening, I had promised to accompany Juli to go and

@@ -3,7 +3,6 @@ layout: post
 title: Almost ticketed
 categories:
 - United States of America
-excerpt: Athens, where Divya's college was, turned out to be a nice university town full of students. I have always enjoyed being in such places, and Divya went out of her way to keep me from getting bored.
 ---
 
 Athens, where Divya's college was, turned out to be a nice university town full

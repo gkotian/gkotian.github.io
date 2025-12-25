@@ -3,7 +3,6 @@ layout: post
 title: Still hope for Colombia
 categories:
 - Ecuador
-excerpt: Matt woke me up at 4 in the morning since he was flying back home to Canada. As I usually do when saying goodbye, I gave him a postcard (addressed both to him and his brother Colin, who'd also been a volunteer at Katitawa but had left earlier).
 ---
 
 Matt woke me up at 4 in the morning since he was flying back home to Canada. As

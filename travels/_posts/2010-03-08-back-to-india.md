@@ -3,7 +3,6 @@ layout: post
 title: Back to India
 categories:
 - India
-excerpt: Pedro had booked a taxi that would pick me up at 6 am, and he was the one who woke me up at 5.50 am :) Thankfully I had packed my bags the night before, so I could just wear my clothes, say hasty thank yous and goodbyes and run to the waiting taxi.
 ---
 
 Pedro had booked a taxi that would pick me up at 6 am, and he was the one who

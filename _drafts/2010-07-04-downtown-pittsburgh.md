@@ -3,7 +3,6 @@ layout: post
 title: Downtown Pittsburgh
 categories:
 - USA
-excerpt: TODO
 ---
 
 rented Subaru Forester, drove to downtown Pittsburgh, beautiful city – great views from Mount Washington, saw firworks, chilled out at Firhouse lounge

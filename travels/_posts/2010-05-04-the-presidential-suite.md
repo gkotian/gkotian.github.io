@@ -3,7 +3,6 @@ layout: post
 title: The Presidential Suite
 categories:
 - Ecuador
-excerpt: With Emma & Damir having left Salasaca, the position of "House Manager of Hostel Pachamama" (which used to belong to Emma) was now empty, and I gladly stepped up to shoulder the responsibility. Part of my eagerness stemmed from the fact that the House Manager could move into the best room in the hostel, aptly named by the volunteers as The Presidential suite.
 ---
 
 With Emma & Damir having left Salasaca, the position of "House Manager of Hostel

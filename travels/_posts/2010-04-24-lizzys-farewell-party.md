@@ -3,7 +3,6 @@ layout: post
 title: Lizzy's farewell party
 categories:
 - Ecuador
-excerpt: The school had got some new volunteers in the past two weeks. First there was Pedro from Brazil, who was riding his motorcycle all around South America, Che Guevara style. He was followed by the young Brits, Tom & Chris; and then the Canadian brothers, Colin & Matt.
 ---
 
 The school had got some new volunteers in the past two weeks. First there was

@@ -3,7 +3,6 @@ layout: post
 title: Fort Lauderdale & New York City
 categories:
 - USA
-excerpt: TODO
 ---
 
 At Fort Lauderdale, I was expecting the usual long barrage of questions at immigrations, but it turned out to be surprisingly pleasant. The immigrations officer was impressed by my trip to South America, and only asked me questions about it. When asked which kind of food I liked the most, I replied without hesitation that none of them could even compare to Indian cuisine, which only seemed to make her even happier :)

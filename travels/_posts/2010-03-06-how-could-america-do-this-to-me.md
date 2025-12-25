@@ -3,7 +3,6 @@ layout: post
 title: How could America do this to me?
 categories:
 - Vietnam
-excerpt: I had been to the USA twice in the past on work assignments and lived there for a considerable amount of time. When I returned the first time, they detached the departure card (I-94) from my passport; but on my second return, they just left it there.
 ---
 
 I had been to the USA twice in the past on work assignments and lived there for

@@ -3,7 +3,6 @@ layout: post
 title: Moving up the coast
 categories:
 - Ecuador
-excerpt: As I was having breakfast by the beach the next morning, a pudgy man came along, sat himself down on my table and started talking to me. My obvious deficiency in Spanish didn't seem to deter him, and he launched into telling me about the highlights of Muisne.
 ---
 
 As I was having breakfast by the beach the next morning, a pudgy man came along,

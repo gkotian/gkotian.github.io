@@ -3,7 +3,6 @@ layout: post
 title: Wrapping up Siem Reap
 categories:
 - Cambodia
-excerpt: Paul and Juli had gone their own ways, Talita had gone on ahead to Phnom Penh, and Echo seemed to have totally disappeared from the scene; so I had to wrap up the last few temples on my list by myself.
 ---
 
 Paul and Juli had gone their own ways, Talita had gone on ahead to Phnom Penh,

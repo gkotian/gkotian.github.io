@@ -4,7 +4,6 @@ title: Good morning Vietnam
 categories:
 - Cambodia
 - Vietnam
-excerpt: After firing the AK-47, I was done with Cambodia and ready for Vietnam. I purchased a bus ticket to Ho Chi Minh city (affectionately called HCMC), and while waiting for the bus, started talking to an Israeli guy called Golan. As it so happened, Golan's seat was the one right next to mine, and we continued talking about a whole lot of stuff during the journey.
 ---
 
 After firing the AK-47, I was done with Cambodia and ready for Vietnam. I

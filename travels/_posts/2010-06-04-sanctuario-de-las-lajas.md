@@ -3,7 +3,6 @@ layout: post
 title: Sanctuario de Las Lajas
 categories:
 - Colombia
-excerpt: I had stayed back in the nothing-much-to-do-in town of Ipiales just to visit the Sanctuario de Las Lajas, and when I saw the majestic church the next morning, I was glad that I had stayed. The church was constructed on the side of a mountain with a bridge over a deep gorge with a river flowing underneath.
 ---
 
 I had stayed back in the nothing-much-to-do-in town of Ipiales just to visit the

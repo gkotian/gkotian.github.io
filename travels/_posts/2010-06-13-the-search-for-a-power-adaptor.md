@@ -3,7 +3,6 @@ layout: post
 title: The search for a power adaptor
 categories:
 - Colombia
-excerpt: Everyday I would go on long walks looking for shops selling electronics. I was looking to buy a replacement adaptor for my laptop, which by now I was sure was lost.
 ---
 
 Everyday I would go on long walks looking for shops selling electronics,

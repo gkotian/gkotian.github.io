@@ -3,7 +3,6 @@ layout: post
 title: Fort Pierce, Miami and another breakdown
 categories:
 - United States of America
-excerpt: The next morning I said goodbye to Nancy, along with my usual thank you postcard and went straight to the closest Avis centre. The staff here were really nice. I got a much better car - a Hyundai accent (with cruise control!) and for cheaper than the old car.
 ---
 
 The next morning I said goodbye to Nancy, along with my usual thank you postcard

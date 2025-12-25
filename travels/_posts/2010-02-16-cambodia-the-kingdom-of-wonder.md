@@ -4,7 +4,6 @@ title: Cambodia - the kingdom of wonder
 categories:
 - Cambodia
 - Thailand
-excerpt: In the evening, I picked up my bags from Tomi's place, thanked him for being such a gracious host and said goodbye. I hadn't managed to find anyone to host me for tonight and it was also too late to start my journey to Cambodia now
 ---
 
 In the evening, I picked up my bags from Tomi's place, thanked him for being

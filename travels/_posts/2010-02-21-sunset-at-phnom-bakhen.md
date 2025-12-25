@@ -3,7 +3,6 @@ layout: post
 title: Sunset at Phnom Bakhen
 categories:
 - Cambodia
-excerpt: I don't get what it is with everyone in Siem Reap talking about sunrises and sunsets all the time. Juli is apparently a big fan of sunrises and sunsets, and after hearing people going on about how amazing the sunset at Phnom Bakhen is, she just had to go and check it out for herself. Since I had nothing better to do anyway, I agreed to go along.
 ---
 
 I don't get what it is with everyone in Siem Reap talking about sunrises and

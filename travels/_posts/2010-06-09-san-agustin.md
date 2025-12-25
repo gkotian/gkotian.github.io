@@ -3,7 +3,6 @@ layout: post
 title: San Agustin
 categories:
 - Colombia
-excerpt: The road from Popayan to San Agustin was scenic, but extremely bad. Imagine a rickety old bus with hard uncomfortable seats and poor suspensions going over a bumpy road for more than 6 hours. You wouldn't enjoy travelling in this bus. I didn't either.
 ---
 
 The road from Popayan to San Agustin was scenic, but extremely bad. Imagine a

@@ -3,7 +3,6 @@ layout: post
 title: Tayrona national park
 categories:
 - Colombia
-excerpt: TODO
 ---
 
 The Spaniard & I had planned to go to Parque Tayrona together, but since I had slept well past the agreed-upon time, he had left by the time I got ready. I reached the entrance to Tayrona National Park at about 11, and paid the entrance fee of 34000 Colombian pesos for non-Colombians. A mini-bus then drove me further into the park for about 15 minutes.

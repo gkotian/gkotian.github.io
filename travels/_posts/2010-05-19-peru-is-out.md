@@ -3,7 +3,6 @@ layout: post
 title: Peru is out
 categories:
 - Ecuador
-excerpt: Next morning, I thought I'll head to the Peruvian embassy and apply for a tourist visa. I knew where it was, but didn't know what was the best way to get there, so I went down to the hostel reception to ask.
 ---
 
 Next morning, I thought I'll head to the Peruvian embassy and apply for a

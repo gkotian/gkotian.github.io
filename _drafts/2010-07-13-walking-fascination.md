@@ -3,7 +3,6 @@ layout: post
 title: Walking fascination
 categories:
 - USA
-excerpt: TODO
 ---
 
 I would be flying from Pittsburgh to New York on Tuesday evening, and a taxi from Cranberry township to the airport would cost at least $40. But for $80, I could rent a car, use it the entire previous day and then return it at the airport itself; and that sounded like a rather good deal. So I reserved a car at the closest Avis location, which unfortunately was not close enough :( It was about 15 miles (X km) away in the next township of Wexford, and since I didn’t walk to hire a taxi to get there, I decided to walk it.

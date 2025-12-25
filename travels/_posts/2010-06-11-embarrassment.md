@@ -3,7 +3,6 @@ layout: post
 title: Embarrassment
 categories:
 - Colombia
-excerpt: All of us had had a good time yesterday, so we decided to head back to the same bar.
 ---
 
 All of us had had a good time yesterday, so we decided to head back to the same

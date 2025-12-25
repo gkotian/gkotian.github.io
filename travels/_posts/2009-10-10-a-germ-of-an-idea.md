@@ -3,7 +3,6 @@ layout: post
 title: A germ of an idea
 categories:
 - India
-excerpt: Could I really dare to dream?
 ---
 
 I thoroughly enjoyed my 2 week vacation in North India. During the first week I

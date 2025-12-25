@@ -3,7 +3,6 @@ layout: post
 title: Khmer wedding
 categories:
 - Cambodia
-excerpt: Today was the big day for which I had actually come to Phnom Penh. Mariam, a teacher in Phnom Penh and one of the local couchsurfers, had invited anyone who was interested to witness a Cambodian wedding to one of her students' marriage.
 ---
 
 {% include image.html

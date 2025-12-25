@@ -3,7 +3,6 @@ layout: post
 title: Power adaptor reunion
 categories:
 - Colombia
-excerpt: My hostel in Popayan had found someone headed to Cali, and they had agreed to take what I really really hoped was my power adaptor with them. I had been given a name - Vanessa - along with the name of the hostel where she would be staying.
 ---
 
 My hostel in Popayan had found someone headed to Cali, and they had agreed to

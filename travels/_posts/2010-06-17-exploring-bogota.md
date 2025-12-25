@@ -3,7 +3,6 @@ layout: post
 title: Exploring Bogota
 categories:
 - Colombia
-excerpt: I am usually very cautious when crossing roads, and I always follow the pedestrian crossing signals; but last evening I ignored it -- big mistake.
 ---
 
 I am usually very cautious when crossing roads, and I always follow the

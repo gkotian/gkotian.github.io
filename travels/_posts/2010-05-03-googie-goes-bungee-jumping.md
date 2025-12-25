@@ -3,7 +3,6 @@ layout: post
 title: Googie Goes Bungee Jumping
 categories:
 - Ecuador
-excerpt: The bus dropped us near the bridge in Baños from where one could jump off the edge suspended by bungee cords for a mere 10 USD. I had always wanted to do a bungee jump, and couldn't wait to try. Abraham had already jumped off this same bridge twice before, and he was ready for more. Nicolas & Pedro however didn't want to, so we put them in charge of capturing our jumps.
 ---
 
 The bus dropped us near the bridge in Baños from where one could jump off the

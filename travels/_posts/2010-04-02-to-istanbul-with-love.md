@@ -3,7 +3,6 @@ layout: post
 title: To Istanbul with love
 categories:
 - Turkey
-excerpt: I landed at Istanbul just after midnight and Jana was already waiting for me. We decided to hang around inside the airport and leave when the bus service starts in the morning. Vitek, the Polish guy, who had flown in on the same flight from Sharjah also joined us and we had dinner together. A police officer saw us eating chocolates, and came over to ask if he could have some. We were happy to share and soon there was a small army of cops around us.
 ---
 
 I landed at Istanbul just after midnight and Jana was already waiting for me. We

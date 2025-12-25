@@ -3,7 +3,6 @@ layout: post
 title: Motaarsaaikeel
 categories:
 - India
-excerpt: The planned route for the first day was - Delhi --> Gurgaon --> Dharu Heda --> Rewari --> Narnaul --> Chirawa --> Jhunjunu --> Mandawa
 ---
 
 The planned route for the first day was:<br>

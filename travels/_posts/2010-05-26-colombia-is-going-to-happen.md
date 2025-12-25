@@ -3,7 +3,6 @@ layout: post
 title: Colombia is going to happen
 categories:
 - Ecuador
-excerpt: Back in Quito the next day, I went straight to the Colombian consulate and handed them my passport, and they asked me to come back the next day to collect it.
 ---
 
 Back in Quito the next day, I went straight to the Colombian consulate and

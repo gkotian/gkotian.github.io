@@ -3,7 +3,6 @@ layout: post
 title: The time to say goodbye...
 categories:
 - Ecuador
-excerpt: Saying goodbye is never easy, but it has to be done.
 ---
 
 Saying goodbye is never easy, but it has to be done.

@@ -3,7 +3,6 @@ layout: post
 title: Angkor Wat
 categories:
 - Cambodia
-excerpt: Echo came back to the guesthouse early next morning, and said that she and her German friend - Juli - had found another guesthouse where a single bed cost only 1 USD per night. To be honest, I liked my current room and didn't want to leave, but it would be more practical to stay close to people I would be hanging out with, so I decided to move there.
 ---
 
 Echo came back to the guesthouse early next morning, and said that she and her

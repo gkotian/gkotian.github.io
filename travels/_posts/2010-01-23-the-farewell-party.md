@@ -3,7 +3,6 @@ layout: post
 title: The farewell party
 categories:
 - India
-excerpt: On the way back from Tirupati, I sent SMSes to as many people as I could inviting them for my farewell party that evening. It was almost 9 pm by the time we got home, and some of the guests were there already. But not everyone could make it at such short notice, and moreover since it was a weekday. But nevertheless, we had a good time, and I said my goodbyes to all at around 3 am so that I could get at least an hour to pack. I was done packing by around 4 am, and by 5 am Prit & I were ready to leave.
 ---
 
 On the way back from Tirupati, I sent SMSes to as many people as I could

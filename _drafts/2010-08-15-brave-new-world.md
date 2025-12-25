@@ -3,7 +3,6 @@ layout: post
 title: Brave New World
 categories:
 - India
-excerpt: TODO
 ---
 
 At some point during my constant travelling, I finished ...

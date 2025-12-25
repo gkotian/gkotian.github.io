@@ -3,7 +3,6 @@ layout: post
 title: The first day of work
 categories:
 - Ecuador
-excerpt: Each work day begins early for all volunteers at Katitawa. Robert comes to the hostel every morning at 6 am loudly singing John Denver's famous Annie's Song, and the idea is that when you hear it, you get out of bed.
 ---
 
 Each work day begins early for all volunteers at Katitawa. Robert comes to the

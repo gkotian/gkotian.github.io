@@ -3,7 +3,6 @@ layout: post
 title: The Pacific Ocean
 categories:
 - Ecuador
-excerpt: Once I had successfully acquired the tourist visa to Colombia, there was no reason for me to stay in Quito any longer. So I gathered my bags and left for the bus terminal. My next destination was the coastal town of Esmeraldas to see the Pacific Ocean.
 ---
 
 Once I had successfully acquired the tourist visa to Colombia, there was no

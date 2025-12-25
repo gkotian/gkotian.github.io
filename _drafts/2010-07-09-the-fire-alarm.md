@@ -3,7 +3,6 @@ layout: post
 title: The fire alarm
 categories:
 - USA
-excerpt: TODO
 ---
 
 did nothing much at home, played basketball in the evenings, burnt papad, firealarm rang, started tidying up the place in case the firemen show up, some guys asked for cricket in the evening

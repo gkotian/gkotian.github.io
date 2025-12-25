@@ -3,7 +3,6 @@ layout: post
 title: Phnom Penh and the art of motorcycle maintenance
 categories:
 - Cambodia
-excerpt: Ok, so this post has got nothing to do with motorcycle maintenance. Heck, it doesn't even have anything to do with motorcycles. It is just an uncreative, uninspired play on "Zen and the Art of Motorcycle Maintenance"
 ---
 
 Ok, so this post has got nothing to do with motorcycle maintenance. Heck, it

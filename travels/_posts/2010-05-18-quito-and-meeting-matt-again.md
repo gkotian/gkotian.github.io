@@ -3,7 +3,6 @@ layout: post
 title: Quito and meeting Matt again
 categories:
 - Ecuador
-excerpt: For the past several weeks, I had been surrounded by people and had quite forgotten that I was actually on this trip all by myself. That realization struck suddenly when I disembarked in the bus terminal at Quito, and I felt momentarily confused and overwhelmed.
 ---
 
 For the past several weeks, I had been surrounded by people and had quite

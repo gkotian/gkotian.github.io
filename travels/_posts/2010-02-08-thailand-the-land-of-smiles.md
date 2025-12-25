@@ -4,7 +4,6 @@ title: Thailand - the land of smiles
 categories:
 - India
 - Thailand
-excerpt: OJ & I landed in Mumbai at around 1 am. VMK and Kini had come to the domestic airport to meet us. From there, all of us got into a cab to go to the international airport. On the way, VMK suddenly remembered that we needed to stock up on Indian cigarettes and OJ suddenly remembered that we needed to stock up on Rajnigandha. Did you note how I said "we" needed to stock up?
 ---
 
 OJ & I landed in Mumbai at around 1 am. VMK and Kini had come to the domestic

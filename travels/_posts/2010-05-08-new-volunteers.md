@@ -3,7 +3,6 @@ layout: post
 title: New volunteers
 categories:
 - Ecuador
-excerpt: This week Katitawa has some new volunteers. Mitchell & Amy from New Zealand, Eddie & Megan also from New Zealand, and Marina & Bruna from Argentina.
 ---
 
 This week Katitawa has some new volunteers. Mitchell & Amy from New Zealand,

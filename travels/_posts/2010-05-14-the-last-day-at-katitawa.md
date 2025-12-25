@@ -3,7 +3,6 @@ layout: post
 title: The last day at Katitawa
 categories:
 - Ecuador
-excerpt: Today was my last working day as a volunteer at Escuela Katitawa, as I had decided to move on and continue my journey on Sunday.
 ---
 
 Today was my last working day as a volunteer at Escuela Katitawa, as I had

@@ -3,7 +3,6 @@ layout: post
 title: My first day in South America
 categories:
 - Ecuador
-excerpt: When I woke up in the morning, I was eager to step out of the airport terminal to breathe some fresh South American air for the first time. But before that I needed to figure out where to go.
 ---
 
 When I woke up in the morning, I was eager to step out of the airport terminal

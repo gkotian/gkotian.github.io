@@ -3,7 +3,6 @@ layout: post
 title: Community Dinner
 categories:
 - Ecuador
-excerpt: Preparations were underway at the library for a large community dinner that had been planned for today evening. I was sitting in the library completely oblivious to the plans, until Nicolas came along and asked me if I could help in moving a pot in the kitchen.
 ---
 
 Preparations were underway at the library for a large community dinner that had

@@ -3,7 +3,6 @@ layout: post
 title: The floating village on Tonle Sap
 categories:
 - Cambodia
-excerpt: A major tourist attraction in the Siem Reap area besides the temples is the floating village on the Tonle Sap lake. Juli, Talita, Paul & I rented a tuk-tuk and set off to check it out.
 ---
 
 A major tourist attraction in the Siem Reap area besides the temples is the

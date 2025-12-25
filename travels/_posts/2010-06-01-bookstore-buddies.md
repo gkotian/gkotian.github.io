@@ -3,7 +3,6 @@ layout: post
 title: Bookstore Buddies
 categories:
 - Ecuador
-excerpt: Back in Quito, I went back to my regular hostel - the one that I kept coming back to. My usual bed in the dormitory was free, and I took it once again!
 ---
 
 Back in Quito, I went back to my regular hostel - the one that I [kept coming

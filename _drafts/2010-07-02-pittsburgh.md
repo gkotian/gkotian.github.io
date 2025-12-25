@@ -3,7 +3,6 @@ layout: post
 title: Pittsburgh
 categories:
 - USA
-excerpt: TODO
 ---
 
 After reaching Pittsburgh, I took a shared taxi to Cranberry Township to the address given by OJ, but as some part of me had already expected, that address simply didn’t exist. To make matters worse, I did not even have a phone number where I could reach OJ. Risking being caught for trespassing, I entered a random apartment block (luckily for me, the locking mechanism of the main door was broken), went down to the basement and discovered a luggage storage area (where again luckily for me, one closet was unlocked and empty). I kept my backpack there, locked it and went out to devise a backup plan.

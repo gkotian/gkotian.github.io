@@ -3,7 +3,6 @@ layout: post
 title: Venky's call answered
 categories:
 - India
-excerpt: The religious would call this last minute trip to the Tirupati Venkateshwara Temple materialising out of nowhere just before I was to undertake the mega trip of my life nothing short of divine intervention; and this is how I justified going on it instead of attending to the other things I needed to take care of.
 ---
 
 The religious would call this last minute trip to the Tirupati Venkateshwara

@@ -3,7 +3,6 @@ layout: post
 title: Tin Tin Deo
 categories:
 - Colombia
-excerpt: The usurper of my bed the other night was an American girl of Peruvian descent called Kathy. Apparently, she had heard such good things about Colombia that when she was in Otavalo, she just couldn't resist the temptation to take a short 3 day detour north into Colombia, before heading back into Ecuador.
 ---
 
 [The usurper of my bed the other night]({{ site.baseurl }}{% post_url

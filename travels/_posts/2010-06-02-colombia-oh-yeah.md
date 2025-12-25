@@ -4,7 +4,6 @@ title: Colombia, oh yeah!
 categories:
 - Colombia
 - Ecuador
-excerpt: Since I had no guidebook for Colombia, I asked other travelers in my hostel and gathered some information from those who had already been there.
 ---
 
 Since I had no guidebook for Colombia, I asked other travelers in my hostel and
