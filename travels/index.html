@@ -5,22 +5,21 @@ title: Gautam Kotian
 
 <div id="travels_intro">
     <p>
-        The year 2010 marked a defining period in my life. It was my year of travel.
+        2010 was the year that changed everything. Against the grain of
+        tradition and expectations, I decided it was my year to see the world.
     </p>
     <p>
-        I started this blog a few months before I set off on my adventures
-        (when I had made up my mind to do it, come what may).
+        I started this blog in the nervous months leading up to my departure -
+        when I decided I had to go "come what may."
     </p>
     <div style="text-align: center; margin: 1.5em 0;">
-        <img src="/assets/placeholder_1200x200.png" alt="Travels" style="width: 75%; height: auto;"/>
+        <img src="/assets/backpacker.jpg" alt="Travels" style="width: 75%; height: auto;"/>
     </div>
     <p>
-        But it wasn't smooth sailing by any means. Taking a gap year to travel
-        was practically unheard of for someone who grew up in India. When I told
-        them my plans, my entire extended family thought I'd lost it. They did
+        At the time, taking a gap year to travel was practically unheard of in
+        India. My extended family was convinced I'd lost my mind. They did
         everything they could to try and dissuade me. I knew they meant well,
-        but I also knew that if I backed out now, I'd regret it for the rest of
-        my life.  
+        but I also knew that backing down would leave me with a lifelong regret.
     </p>
     <div style="text-align: center; margin: 1.5em 0;">
         <img src="/assets/placeholder_1200x200.png" alt="Travels" style="width: 75%; height: auto;"/>
@@ -48,7 +47,7 @@ title: Gautam Kotian
 <div id="posts_list">
     {% assign sorted_posts = site.categories.travels | sort: 'date' %}
     {% for post in sorted_posts %}
-        <p>
+        <p style="margin-left: 2em;">
             <span class="post-date">{{ post.date | date: "%Y-%m-%d" }} :</span>
             <a href="{{ post.url }}">{{ post.title }}</a>
         </p>
