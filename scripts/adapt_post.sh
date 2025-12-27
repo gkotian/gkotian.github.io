@@ -15,9 +15,9 @@ POST_TO_ADAPT=`basename $1`
 
 FILENAME_WITHOUT_EXTN="${POST_TO_ADAPT%.*}"
 
-TARGET_FILE=${PLAY_DIR}/website/travels/_posts/${FILENAME_WITHOUT_EXTN}.md
+TARGET_FILE=${PLAY_DIR}/websites/gautam-kotian/travels/_posts/${FILENAME_WITHOUT_EXTN}.md
 
-git mv ${PLAY_DIR}/website/_posts/${POST_TO_ADAPT} ${TARGET_FILE}
+git mv ${PLAY_DIR}/websites/gautam-kotian/_posts/${POST_TO_ADAPT} ${TARGET_FILE}
 
 # Substitute the ’ character with a single apostrophe
 sed -i 's/’/'\''/g' ${TARGET_FILE}
@@ -86,7 +86,7 @@ do
 
     EXTENSION=${IMAGE_URL##*.}
     IMAGE_FILE_NAME=${DATE}-${SHORT_NAME}
-    IMAGE_FILE_PATH=${PLAY_DIR}/website/assets/travels/${IMAGE_FILE_NAME}.${EXTENSION}
+    IMAGE_FILE_PATH=${PLAY_DIR}/websites/gautam-kotian/assets/travels/${IMAGE_FILE_NAME}.${EXTENSION}
 
     curl -o ${IMAGE_FILE_PATH} ${IMAGE_URL} 2> /dev/null
 
