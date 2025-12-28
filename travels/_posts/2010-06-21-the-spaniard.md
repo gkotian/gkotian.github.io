@@ -1,0 +1,6 @@
+- bad habit with spending too much time in the loo
+- somebody banging the door like crazy
+- mix of anger and frustration and the pure need to go
+- for a brief moment disappeared as we both try to place each other
+- still haven't solved it when he comes out
+- comes to both of us at the same time
