@@ -31,5 +31,5 @@ he dashed inside the bathroom and closed the door behind him.
 I sat myself on the bed racking my brains to solve the mystery. I still hadn't
 figured it out by the time he got out, but then it came to both of us at almost
 exactly the same time. We had met in Popayan and had dinner together - four solo
-travellers going their own ways next day, never to meet again - or so we
+travellers going their own ways the next day, never to meet again - or so we
 thought!

@@ -1,0 +1,2 @@
+- didn't watch it, but thought of the Spaniard
+- he must be celebrating like a maniac, wherever he is

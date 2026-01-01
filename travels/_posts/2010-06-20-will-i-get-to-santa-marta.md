@@ -79,10 +79,22 @@ guess that the other twisted, melted mass of metal was once the cabin of a
 truck. Smoke still billowed from the two unfortunate vehicles, and there was the
 distinct smell of burning rubber and burning flesh.
 
+After clicking a few pictures, I started walking back to my bus. People from
+neighbouring villages were making a killing by selling food and drinks to the
+stranded passengers at obscenely high prices (and why not?). When I got back to
+where I had started from, I saw that something was amiss. At first I thought I
+was at a wrong spot, but on closer inspection I realised that the spot was
+correct - just that my bus was gone, and with it, my entire backpack!
+
 {% include image.html
     img="assets/travels/2010-06-20-at-the-police-barricade.jpg"
     title="at-the-police-barricade"
     caption="At the police barricade" %}
+
+{% include image.html
+    img="assets/travels/2010-06-20-local-sellers.jpg"
+    title="local-sellers"
+    caption="Local sellers" %}
 
 {% include image.html
     img="assets/travels/2010-06-20-all-that-remained-of-the-ill-fated-bus.jpg"
@@ -90,16 +102,14 @@ distinct smell of burning rubber and burning flesh.
     caption="All that remained of the ill-fated bus" %}
 
 {% include image.html
+    img="assets/travels/2010-06-20-a-closer-view-of-the-burnt-bus.jpg"
+    title="a-closer-view-of-the-burnt-bus"
+    caption="A closer view" %}
+
+{% include image.html
     img="assets/travels/2010-06-20-the-still-smoldering-remains-of-what-was-once-a-truck.jpg"
     title="the-still-smoldering-remains-of-what-was-once-a-truck"
     caption="The still smoldering remains of what was once a truck" %}
-
-After clicking a few pictures, I started walking back to my bus. People from
-neighbouring villages were making a killing by selling food and drinks to the
-stranded passengers at obscenely high prices (and why not?). When I got back to
-where I had started from, I saw that something was amiss. At first I thought I
-was at a wrong spot, but on closer inspection I realised that the spot was
-correct - just that my bus was gone, and with it, my entire backpack!
 
 {% include image.html
     img="assets/travels/2010-06-20-peaceful-countryside.jpg"
