@@ -7,10 +7,11 @@ categories:
 
 I have a bad habit of spending too much time in the loo. This wasn't usually a
 problem, as we had two bathrooms at home and if I was enthroned in one of them,
-then the other one could be used. But when I went to university and had to share
-one bathroom with three other guys, it became a bit of a crisis. My room-mates
-made me swear that I would go about my business only late at night. But once I
-was done with my studies and started working, I had relapsed into my old ways.
+then people could simply use the other one. But when I went to university and
+had to share one bathroom with three other guys, it became a bit of a crisis. My
+room-mates made me swear that I would go about my business only late at night.
+But once I was done with my studies and started working, I had relapsed into my
+old ways.
 
 So, the next morning, back in Hostel La Luna, I had set up camp in one of the
 bathrooms. At some point, someone started banging on the door like crazy and
