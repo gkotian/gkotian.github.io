@@ -19,5 +19,5 @@ Germany.
     caption="With Jelly, Pedro and their German friend" %}
 
 After dinner with one of their German friends, they took me to their large and
-beautiful home. They were very hospitable and I gave me an entire room to
+beautiful home. They were very hospitable and gave me an entire room to
 myself, along with a spare set of keys to the house.

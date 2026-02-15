@@ -27,7 +27,7 @@ decided to get one of the cheaper ones so my choice was limited. In the end I
 had narrowed it down to just two phones. Something inexplicable happened between
 the time I was looking at the two boxes on the counter trying to decide which
 one to purchase and the time I walked out the door. Was it excellent
-salesmenship on the part of the employees of the store or was it plain stupidity
+salesmanship on the part of the employees of the store or was it plain stupidity
 on my part could be an interesting research topic I think. But the upshot was
 that by the time I was walking out the door, I had burned a large hole in my
 pocket and had a sleek new Blackberry in my hands. It was a phone I tried hard

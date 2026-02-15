@@ -6,7 +6,7 @@ categories:
 ---
 
 Our first stop in Bangkok was Khao San Road. Vinay had told me a lot about this
-backpacker friendly place packed with tourists, and it sure did not dissapoint.
+backpacker friendly place packed with tourists, and it sure did not disappoint.
 
 There were people from all over the world milling about all over the street. We
 found a decent place to stay, and stepped out to explore. We walked up and down

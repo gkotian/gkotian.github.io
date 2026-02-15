@@ -69,13 +69,13 @@ Wrong.
 
 When I took the packet and gave her 5 Baht, she looked at me as if she was
 looking at a lunatic. It didn't take me too long to figure out that each of her
-fingers stood for 10 bahts, and it took me even lesser time to drop the fish and
+fingers stood for 10 bahts, and it took me even less time to drop the fish and
 get the hell out of there.
 
 Right now, I'm sitting at one of the "posher" eating joints in town,
 contemplating my next move. Now that I've hit a blank wall with the visa
 process, there's no point in me spending any more time in Bangkok. I'm going to
-look for another host for tonight, and if I'm unable to find anybody, I'm  going
+look for another host for tonight, and if I'm unable to find anybody, I'm going
 to just make my way towards Cambodia right away.
 
 {% include image.html

@@ -20,7 +20,7 @@ on one of the boats.
 The boat we got on to was being rowed by two young boys, the older of whom was
 no more than 15 years old. The destination of all these tourist boats is one of
 the large floating restaurants close to the floating village. On the way one can
-see some several floating houses, some floating stores, a floating church and
+see several floating houses, some floating stores, a floating church and
 even a floating basketball court.
 
 {% include image.html

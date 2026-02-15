@@ -18,7 +18,7 @@ to meet a friend in Quito, so wouldn't be able to come with us to Tena. After a
 round of quick hugs and goodbyes, Lizzy was gone.
 
 The rest of us then hired a camioneta till Baños, and got into the back. Beers
-appeared magically and were passed around.With all of us riding in the back
+appeared magically and were passed around. With all of us riding in the back
 together, the ride to Baños turned out to be super fun! We decided to ditch the
 earlier plan to take a bus to Tena, and instead checked with our camioneta
 driver if he would drive us all the way there. After a quick round of
@@ -40,7 +40,7 @@ About halfway there, it started pouring in torrents which meant all laptops and
 cameras and phones had to be put away in the cabin next to the driver. All of us
 got drenched to the bone, and that's when the singing started. We cycled through
 dozens of songs, before finally settling on "In the jungle, the mighty jungle
-the lion sleeps tonight". Singling of this song was synchronised to the minutest
+the lion sleeps tonight". Singing of this song was synchronised to the minutest
 detail in the most professional manner. Everybody had their specific parts to be
 sung or hummed at specific times at the right tempo. The singing eventually gave
 way to an enactment of our skit from the previous day - "Un Patito Feo" - in the

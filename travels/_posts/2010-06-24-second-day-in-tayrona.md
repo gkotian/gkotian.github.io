@@ -142,7 +142,7 @@ chatting for some more time, we wished each other luck and bade goodbye.
 When I came back to Cabo del San Guia, I seriously considered spending another
 night at Tayrona - mainly to be in the hut on the hillock, but I knew I would go
 insane if I had to deal with the mosquitoes again. So with a heavy heart and
-many "last looks", I said farewell to one of the most stunning places I've even
+many "last looks", I said farewell to one of the most stunning places I've ever
 been to and made my way back - first to Arrecifes, then through the jungle, then
 the bus ride to the main entrance of Tayrona, then another bus to Santa Marta
 and finally to my dorm room in Hostel La Luna. It was close to midnight by the

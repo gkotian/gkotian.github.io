@@ -32,7 +32,7 @@ door. About 10 minutes later, I heard the last thing in the world I wanted to
 hear - a knock on my door. I opened it a peep to find a man asking me something.
 His Spanish was much faster than I could understand and told him so. He slowly
 said "Agua", meaning water. I fetched him a glass of water which he drank,
-thanked me and left. It was clear that his curiousity had gotten the best of him
+thanked me and left. It was clear that his curiosity had gotten the best of him
 and he wanted to check out who this stranger was. Thankfully however, nothing
 else of note happened and I could check out of there and leave in the morning.
 

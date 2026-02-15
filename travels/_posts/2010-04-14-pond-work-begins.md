@@ -6,7 +6,7 @@ categories:
 ---
 
 Dotahn and I got to the school early, much before everyone else because we were
-eager to inspected our concrete poles from yesterday. One of them was going to
+eager to inspect our concrete poles from yesterday. One of them was going to
 be no good, but the other two were looking solid. Robert was keen for us to get
 started on the pond, and to me that sounded like a much more fun thing to do
 than making poles of concrete. We decided to make the pond bang in the middle of

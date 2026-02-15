@@ -14,7 +14,7 @@ of our trip :(
 As soon as the taxi slowed to a stop near our destination, the driver hurriedly
 asked us to get out. He couldn't wait for us to finish paying, and practically
 pushed us out of the cab. He said he couldn't stop there as the police would fine
-him. This was despite the fact there were several taxies standing right in front
+him. This was despite the fact there were several taxis standing right in front
 of us. This should have raised alarm bells in our heads, but we just assumed he
 was an eccentric guy and ignored him. The taxi sped away into the night almost
 as soon as we were out of it.

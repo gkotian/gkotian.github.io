@@ -23,7 +23,7 @@ itself was quite smooth, and we reached Vietnam without any problem.
 
 Once at HCMC, Golan and I decided to share a room, and found a decent,
 not-too-expensive one after searching for a bit. Prices of accommodation in
-Vietnam was way more than in Cambodia.
+Vietnam were way more than in Cambodia.
 
 {% include image.html
     img="assets/travels/2010-02-27-wires.jpg"
@@ -62,7 +62,7 @@ the green paddy fields I was looking for.
     caption="The landscape I was looking for" %}
 
 On the way back, I met a friendly German girl called Sarah, with whom I had a
-long conversation, which made the two hour return journey seemed like a short
+long conversation, which made the two hour return journey seem like a short
 ride. Golan & I also made friends with an Australian couple, Lisa & Peter, with
 whom we decided to go for a half day tour of the Cu Chi tunnels the next day.
 

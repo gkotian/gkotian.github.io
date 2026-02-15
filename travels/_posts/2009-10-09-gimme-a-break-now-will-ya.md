@@ -8,7 +8,7 @@ categories:
 I have always loved to travel, just like my parents. Owing to them, I have been
 to many popular touristy places all over India. We've gone as far north as
 Kashmir, as far south as Kanyakumari and as far east as Sikkim. I think Mumbai
-is probably the "westest" that I've been to. For one of our vacations, We even
+is probably the "westest" that I've been to. For one of our vacations, we even
 left the mainland and spent a week in the Andaman Islands.
 
 Since the Indian currency is not all that strong, we could never afford to

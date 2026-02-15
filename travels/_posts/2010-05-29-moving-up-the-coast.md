@@ -120,7 +120,7 @@ ride, I offered to give the man some money, but he just smiled and drove off.
 
 [Atacames](https://en.wikipedia.org/wiki/Atacames){:target="_blank"} is a
 well-known party place, and every hotel I went to was packed. I was told that
-this is the case every weekend, and I'd have better luck finding accomodation in
+this is the case every weekend, and I'd have better luck finding accommodation in
 the nearby town of Sua. Having no other alternative, I came to Sua, which in
 comparison was much more relaxed and peaceful.
 

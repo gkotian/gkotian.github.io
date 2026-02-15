@@ -45,7 +45,7 @@ chap and we were all looking forward to a fun and relaxed sightseeing day.
 
 We visited Banteay Srei and one other temple, and then stopped for lunch. We had
 heard of there being two menus at every restaurant in Siem Reap - one for the
-tourists and one for the locals. Rumour has it that tourists pay upto five times
+tourists and one for the locals. Rumour has it that tourists pay up to five times
 as much as the locals for the exact same dishes. So when the waitress at the
 restaurant brought us the menu, we insisted on the "locals menu". They never
 showed us that menu, but agreed to charge us only half the price listed on the

@@ -18,7 +18,7 @@ to work on are:
 - Get my finances in order (because I'll have to continue to pay my home loan
   even when I'm not earning)
 - Plan a tentative route
-- Research about places along the route and choose the one's that simply cannot
+- Research about places along the route and choose the ones that simply cannot
   be missed
 - Start applying for visas
 - Arrange for all vaccinations needed

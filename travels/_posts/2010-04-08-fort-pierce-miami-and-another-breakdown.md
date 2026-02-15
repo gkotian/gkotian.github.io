@@ -18,7 +18,7 @@ a beautiful town. It had both a river and the Atlantic ocean next to it.
         %}
 
 After having had a good look around Fort Pierce, I was just about to head
-towards towards Miami when I spotted an interesting looking bus parked in a
+towards Miami when I spotted an interesting looking bus parked in a
 parking lot. I stopped to take a closer look and clicked a few pictures since
 nobody was around. Just as I was walking towards my car, the owner of the bus,
 Bob, showed up and we started talking.

@@ -149,4 +149,4 @@ p.s: to get an idea of the insignificance of a human being from a size
 perspective, try this: <a
 ref="http://htwins.net/scale2/scale2.swf?bordercolor=white"
 target="_blank">http://htwins.net/scale2/scale2.swf?bordercolor=white</a>
-(might take a while to load on slow connections, but trust me, its worth the wait!)
+(might take a while to load on slow connections, but trust me, it's worth the wait!)
